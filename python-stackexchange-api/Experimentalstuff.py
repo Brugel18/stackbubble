@@ -2,6 +2,9 @@
 
 # a hack so you can run it 'python demo/stats.py'
 import sys
+import os
+
+
 from stackauth import StackAuth
 from stackexchange import Site, StackOverflow
 
