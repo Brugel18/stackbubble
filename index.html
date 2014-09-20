@@ -1,0 +1,94 @@
+<html>
+    <head>
+        <script language="javascript" type="text/javascript"  src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
+        <script language="javascript" type="text/javascript" src="arbor/arbor.js" ></script>
+        <script language="javascript" type="text/javascript" src="arbor/graphics.js" ></script>
+        <script language="javascript" type="text/javascript" src="arbor/renderer.js" ></script>
+    </head>
+    <body>
+          <canvas id="viewport" width="800" height="600"></canvas>
+          <script language="javascript" type="text/javascript">
+            var sys = arbor.ParticleSystem(1000, 400,1);
+            sys.parameters({gravity:true});
+            sys.renderer = Renderer("#viewport") ;
+            var data = {
+               nodes:{
+                 animals:{'color':'red','shape':'dot','label':'Animals'},
+                 dog:{'color':'green','shape':'dot','label':'dog'},
+                 cat:{'color':'blue','shape':'dot','label':'cat'}
+               }, 
+               edges:{
+                 animals:{ dog:{}, cat:{} }
+               }
+             };
+            sys.graft(data);
+            setTimeout(function(){
+              var postLoadData = {
+                 nodes:{
+                   joe:{'color':'orange','shape':'dot','label':'joe'},
+                   fido:{'color':'green','shape':'dot','label':'fido'},
+                   fluffy:{'color':'blue','shape':'dot','label':'fluffy'}
+                 }, 
+                 edges:{
+                      dog:{ fido:{} },
+                      cat:{ fluffy:{} },
+                      joe:{ fluffy:{},fido:{} }
+                 }
+               };
+               sys.graft(postLoadData);
+          },10000);
+
+          $(viewport).mousedown(function(e){
+            var pos = $(this).offset();
+            var p = {x:e.pageX-pos.left, y:e.pageY-pos.top}
+            selected = nearest = dragged = sys.nearest(p);
+            console.log(selected.node.data.color="yellow")
+
+
+            if (selected.node !== null){
+            // dragged.node.tempMass = 10000
+                dragged.node.fixed = true;
+            }
+            return false;
+        });
+        
+          /**var that = {
+            init:function(){
+              
+              $.each(dog, function(stub, map){
+                _links.append("<li><a href='#/"+stub+"' class='"+stub+"'>"+map.title+"</a></li>")
+              })
+              _links.find('li > a').click(that.mapClick)
+              _links.find('.usofa').click()
+              return that
+            },
+            mapClick:function(e){
+              var selected = $(e.target)
+              var newMap = selected.attr('class')
+              if (newMap in _maps) that.selectMap(newMap)
+              _links.find('li > a').removeClass('active')
+              selected.addClass('active')
+              return false
+            },
+            selectMap:function(map_id){
+              $.getJSON("maps/"+map_id+".json",function(data){
+                // load the raw data into the particle system as is (since it's already formatted correctly for .merge)
+                var nodes = data.nodes
+                $.each(nodes, function(name, info){
+                  info.label=name.replace(/(people's )?republic of /i,'').replace(/ and /g,' & ')
+                })
+
+                sys.merge({nodes:nodes, edges:data.edges})
+                sys.parameters(_maps[map_id].p)
+                $("#dataset").html(_maps[map_id].source)
+              })
+              
+            }
+          }
+              
+        that.init() **/  
+
+              </script>
+    </body> 
+
+</html>
