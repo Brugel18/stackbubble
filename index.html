@@ -13,9 +13,9 @@
             sys.renderer = Renderer("#viewport") ;
             var data = {
                nodes:{
-                 animals:{'color':'red','shape':'dot','label':'Animals'},
-                 dog:{'color':'green','shape':'dot','label':'dog'},
-                 cat:{'color':'blue','shape':'dot','label':'cat'}
+                 animals:{'color':'red','shape':'dot','label':'a','size':100},
+                 dog:{'color':'green','shape':'dot','label':'dog','size':100},
+                 cat:{'color':'blue','shape':'dot','label':'cat','size':5}
                }, 
                edges:{
                  animals:{ dog:{}, cat:{} }
@@ -25,9 +25,9 @@
             setTimeout(function(){
               var postLoadData = {
                  nodes:{
-                   joe:{'color':'orange','shape':'dot','label':'joe'},
-                   fido:{'color':'green','shape':'dot','label':'fido'},
-                   fluffy:{'color':'blue','shape':'dot','label':'fluffy'}
+                   joe:{'color':'orange','shape':'dot','label':'joe','size':100},
+                   fido:{'color':'green','shape':'dot','label':'fido','size':100},
+                   fluffy:{'color':'blue','shape':'dot','label':'fluffy','size':100}
                  }, 
                  edges:{
                       dog:{ fido:{} },

@@ -29,7 +29,14 @@
           // determine the box size and round off the coords if we'll be 
           // drawing a text label (awful alignment jitter otherwise...)
           var label = node.data.label||""
-          var w = ctx.measureText(""+label).width + 10
+          var w;
+          if((ctx.measureText(node.data.label||"").width + 6)> node.data.size){
+           w = ctx.measureText(node.data.label||"").width + 6
+          }else{
+            w =node.data.size
+          }
+          
+        
           if (!(""+label).match(/^[ \t]*$/)){
             pt.x = Math.floor(pt.x)
             pt.y = Math.floor(pt.y)
