@@ -77,7 +77,7 @@ def main():
     print samples
     clf = learn(samples);
     print clf
-    keyword = "regular"
+    keyword = "dfa"
     toRank = list()
     posts = list()
     for child in root:
