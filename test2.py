@@ -83,7 +83,7 @@ def main():
     for child in root:
         try:
             if child is not None:
-                if(keyword in [x.lower() for x in child.attrib['Body'].split()]):
+                if(child.attrib['PostTypeId'] == "1" and keyword in [x.lower() for x in child.attrib['Body'].split()]):
                     toRank.append(getFeatures(child, userRoot))
                     posts.append(child)
         except:

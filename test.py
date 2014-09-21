@@ -57,8 +57,8 @@ keyword = "turing"
 ranks = dict()
 for child in root:
     try:
-        if(keyword in [x.lower() for x in child.attrib['Body'].split()]):
-            ranks[child] = scorer_difficult_problems(child)
+        if(child.attrib['PostTypeId'] == "1" and keyword in [x.lower() for x in child.attrib['Body'].split()]):
+            ranks[child] = scorer_common_pitfall(child)
     except:
         pass
 r = sorted(ranks.iteritems(), key=lambda (k, v): -v )
