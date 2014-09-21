@@ -54,4 +54,3 @@ r = sorted(ranks.iteritems(), key=lambda (k, v): -v )
 r = [child[0].attrib  for child in r[:10]]
 for x in r:
     print x
-    print "\n"
