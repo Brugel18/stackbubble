@@ -1,44 +1,149 @@
 <html>
+<<<<<<< HEAD
     <head>
         <script language="javascript" type="text/javascript"  src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
         <script language="javascript" type="text/javascript" src="arbor/arbor.js" ></script>
         <script language="javascript" type="text/javascript" src="arbor/graphics.js" ></script>
         <script language="javascript" type="text/javascript" src="arbor/renderer.js" ></script>
         <script language="javascript" type="text/javascript" src="arbor/arbor-tween.js" ></script>
+        <script language="javascript" type="text/javascript" src="arbor/io.js"></script>
+
 
     </head>
+    <style>
+    body{
+      background-color: #F2F0F0;
+      background:  url(img/ARGH.png);
+      background-size: 200px;
+
+    }
+    #viewport{
+
+    }
+
+    #header{
+      height: 60px;
+      width: 1300px;
+      background-color: #49556C;
+      margin: 0 auto 0 auto;
+      padding: 0 0 0 0;
+    }
+    #wrapper{
+      width: 100%;
+      padding; 0 0 0 0;
+      margin: 0 0 0 0;
+
+    }
+
+    </style>
     <body>
-          <canvas id="viewport" width="800" height="600"></canvas>
+      <!--
+          <form>
+          Search: <input type="text" name="search"><br>
+          <input type="submit" value="Submit">
+          </form>   -->  
+ 
+          <div id="wrapper">  
+            <div id = "header">
+            </div>
+            
+          <canvas id="viewport" width="1300" height="700"></canvas>
+        </div>
           <script language="javascript" type="text/javascript">
+
             var sys = arbor.ParticleSystem({repulsion: 50, stiffness: 100, friction: 7, gravity: true});
+=======
+<head>
+  <script language="javascript" type="text/javascript"  src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
+  <script language="javascript" type="text/javascript" src="arbor/arbor.js" ></script>
+  <script language="javascript" type="text/javascript" src="arbor/graphics.js" ></script>
+  <script language="javascript" type="text/javascript" src="arbor/renderer.js" ></script>
+  <script language="javascript" type="text/javascript" src="arbor/arbor-tween.js" ></script>
+</head>
+<style>
+body{
+  background-color: #F2F0F0;
+  background:  url(img/ARGH.png);
+  background-size: 200px;
+
+}
+#viewport{
+
+}
+#header{
+  height: 60px;
+  width: 2000px;
+  background-color: #49556C;
+  margin: -10 0 0 -10;
+  padding: 0 0 0 0;
+}
+#wrapper{
+  width: 100%;
+  padding; 0 0 0 0;
+  margin: 0 0 0 0;
+}
+</style>
+<body>
+  <div id="wrapper">
+
+    <div id = "header">
+    </div>
+    <canvas id="viewport" width="1600" height="1000"></canvas>
+  </div>
+  <script language="javascript" type="text/javascript">
+
+            //var fileStuff = $.getJSON("python-stackexchange-api/testpiece/allthenames.json");
+            //var obj = JSON.parse(msg);
+            //var data = {};
+            //data[0] = msg;
+           
+            
+
+            var c=document.getElementById('viewport');
+            var ctx=c.getContext('2d');
+            
+
+            var sys = arbor.ParticleSystem({repulsion: 100, stiffness: 10, friction: 8, gravity: true});
+>>>>>>> 3436455f61a08c7818b540e663e4e65cdabd1cf3
             sys.parameters({gravity:true});
             sys.renderer = Renderer("#viewport");
-            var data = {
-               nodes:{
-                 Python:{'color':getRandomColor(),'shape':'dot','label':'Python', 'size': 60, 'isExploded':false, "precedence": 0.5},
-                 Java:{'color':getRandomColor(),'shape':'dot','label':'Java', 'size': 60, 'isExploded':false, "precedence": 0.5},
-                 C:{'color':getRandomColor(),'shape':'dot','label':'C', 'size': 60, 'isExploded':false, "precedence": 0.5}
-               }, 
-             };
-            sys.graft(data);
-            setTimeout(function(){
-              var keywords = {
-                 nodes:{
-                   StringsJava:{'color':getRandomColor(),'shape':'dot','label':'Strings', 'size': 60, 'isExploded':false, "precedence": 2},
-                   VariablesPython:{'color':'green','shape':'dot','label':'Variables', 'size': 60, 'isExploded':false, "precedence": 2},
-                   TreesPython:{'color':getRandomColor(),'shape':'dot','label':'Trees', 'size': 60, 'isExploded':false, "precedence": 2}
-                 }, 
-                 edges:{
-                      StringsJava:{Java:{} },
-                      VariablesPython:{ Python:{} },
-                      TreesPython:{ Python:{} }
-                 }
-               };
-               sys.graft(keywords);
-          },10);
-          var stack = new Array();
-          //console.log("DATA: " + nodes.length)
 
+
+            var msg = $.ajax({type: "GET", url: "python-stackexchange-api/TheG20/allthenames.json", async: false}).responseText;
+            var obj12 = jQuery.parseJSON(msg);
+
+
+            var data = {nodes:{},};
+            
+            for(i = 0; i<30;i++){
+              var colorChange = getRandomColor();
+              obj12[i].color = colorChange;
+              data.nodes[i] = obj12[i];
+              console.log(data.nodes[i]);
+            }
+
+            
+            sys.graft(data);
+            console.log(sys.graft[0])
+            setTimeout(function(){
+  
+           },10);
+            var stack = new Array();
+          //console.log("DATA: " + nodes.length)
+          $(viewport).mouseup(function(e){
+
+
+            var cage = {
+             nodes:{
+            "100":{"color":"black","shape":"dot","label":"Strings", "size": "60", "isExploded":false, "precedence": 2,"filename" : "Cage"}
+
+            }, 
+            edges:{
+            }
+          };
+          sys.graft(cage);
+
+        });
           $(viewport).mousedown(function(e){
             var pos = $(this).offset();
             var p = {x:e.pageX-pos.left, y:e.pageY-pos.top}
@@ -49,38 +154,33 @@
             {
               dragged.node.fixed = true;
               if (selected.node.isExploded == true){
-                 dragged.node.isExploded = false;
-                 sys.tweenNode(selected.node, 1, {color: getRandomColor(), size: 60})
-
-              }
-              else
-              {
-                  sys.tweenNode(selected.node, 1, {color: getRandomColor(), size: 100})
-                  dragged.node.isExploded = true;
+               dragged.node.isExploded = false;
+               sys.tweenNode(selected.node, 1, {color: getRandomColor(), size: 60})
+             }
+             else
+             {
+              sys.tweenNode(selected.node, 1, {color: getRandomColor(), size: 500})
+              dragged.node.isExploded = true;
                   //console.log(dragged.node.isExploded)
-              }
+                }
               /**
               if(selected.node.precedence == 1)
               {
                 stack = sys.getEdges(selected.node)
                 console.log("stack")
                 sys.pruneNode(selected.node)
-              }**/
-            
+              }**/       
             }
-
             return false;
-        });
-        function getRandomColor() {
-            var letters = '0123456789ABCDEF'.split('');
-            var color = '#';
-            for (var i = 0; i < 6; i++ ) {
-                color += letters[Math.floor(Math.random() * 16)];
-            }
-            return color;
-        }
-
-    </script>
-    </body> 
-
+          });
+function getRandomColor() {
+  var letters = '0123456789ABCDEF'.split('');
+  var color = '#';
+  for (var i = 0; i < 6; i++ ) {
+    color += letters[Math.floor(Math.random() * 16)];
+  }
+  return color;
+}
+</script>
+</body> 
 </html>

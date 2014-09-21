@@ -28,10 +28,10 @@
 
           // determine the box size and round off the coords if we'll be 
           // drawing a text label (awful alignment jitter otherwise...)
-          var label = node.data.label||""
+          var label = node.data.filename||""
           var w;
-          if((ctx.measureText(node.data.label||"").width + 6)> node.data.size){
-           w = ctx.measureText(node.data.label||"").width + 6
+          if((ctx.measureText(node.data.filename||"").width + 6)> node.data.size){
+           w = ctx.measureText(node.data.filename||"").width + 6
           }else{
             w =node.data.size
           }
