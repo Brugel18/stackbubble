@@ -53,7 +53,6 @@ userRoot = users.getroot()
 
 tree = xml.parse('../stackdata/cs.stackexchange.com/Posts.xml')
 root = tree.getroot()
-mostviews = 0
 keyword = "turing"
 ranks = dict()
 for child in root:
