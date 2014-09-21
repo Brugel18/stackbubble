@@ -33,7 +33,7 @@ def tagparsing(theobject1, theobject2): #theobject1 is the xml tree, the object2
 		while(i < len(TagArray)):
 			try:
 				if(TagArray[i] in nodes.attrib['Tags']):
-					fileArray[i].write(str(i) + "_" + str(numericaltrackarray[i]) + ":{'color':getRandomColor(),'shape':'dot','label':'Strings', 'size': 60, 'isExploded':false, \"precedence\": 2," + (str(nodes.attrib)[1:][:-1] + "},"))
+					fileArray[i].write(str(i) + str(numericaltrackarray[i]) + ":{'color':getRandomColor(),'shape':'dot','label':'Strings', 'size': 60, 'isExploded':false, \"precedence\": 2," + (str(nodes.attrib)[1:][:-1] + "},"))
 					numericaltrackarray[i] = numericaltrackarray[i] + 1 #we up the index 
 				
 
