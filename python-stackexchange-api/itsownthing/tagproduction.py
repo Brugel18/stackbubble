@@ -22,22 +22,45 @@ def tagparsing(theobject1, theobject2): #theobject1 is the xml tree, the object2
 		except:
 			pass
 	fileArray = []
+	numericaltrackarray = [] #used for tracking nums and assigning unique id's
 	for goods in TagArray:
-		fileArray.append(open(goods + '.txt','w'))
+		fileArray.append(open(goods + '.json','w'))
+		numericaltrackarray.append(0)
 	i = 0 #index for tagging
 	for nodes in theobject1:
 		i = 0
+
 		while(i < len(TagArray)):
 			try:
 				if(TagArray[i] in nodes.attrib['Tags']):
-					fileArray[i].write(str(nodes.attrib))
+					fileArray[i].write(str(i) + str(numericaltrackarray[i]) + ":{'color':getRandomColor(),'shape':'dot','label':'Strings', 'size': 60, 'isExploded':false, \"precedence\": 2," + (str(nodes.attrib)[1:][:-1] + "},"))
+					numericaltrackarray[i] = numericaltrackarray[i] + 1 #we up the index 
+				
+
 			except:
 				pass
 			i = i + 1
 	i = 0
-	while(i < len(fileArray)):
+	fileArray.append(open("allthenames.json", 'w'))
+	TagArray.append("allthenames")
+
+	
+	while(i < len(fileArray)-1): #simultaneously writes to last file arrray and closes files
+		fileArray[len(fileArray)-1].write(str(len(fileArray)-1) + str(i) + ":{'color':getRandomColor(),'shape':'dot','label':'Strings', 'size': 60, 'isExploded':false, \"precedence\": 2," + "\"filename\" : \"" + TagArray[i]+ "\"},")
 		fileArray[i].close()
 		i = i + 1
+	fileArray[i].close()
+
+	i = 0
+	while(i < len(fileArray)):
+		fileArray[i] = open(TagArray[i] + ".json", "r+")
+		fileArray[i].seek(-1, 2)
+		fileArray[i].truncate()
+		fileArray[i].close()
+		i = i + 1
+
+
+
 
 
 
