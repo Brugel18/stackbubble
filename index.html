@@ -5,11 +5,51 @@
         <script language="javascript" type="text/javascript" src="arbor/graphics.js" ></script>
         <script language="javascript" type="text/javascript" src="arbor/renderer.js" ></script>
         <script language="javascript" type="text/javascript" src="arbor/arbor-tween.js" ></script>
+        <script language="javascript" type="text/javascript" src="arbor/io.js"></script>
+
 
     </head>
+    <style>
+    body{
+      background-color: #F2F0F0;
+      background:  url(img/ARGH.png);
+      background-size: 200px;
+
+    }
+    #viewport{
+
+    }
+
+    #header{
+      height: 60px;
+      width: 1300px;
+      background-color: #49556C;
+      margin: 0 auto 0 auto;
+      padding: 0 0 0 0;
+    }
+    #wrapper{
+      width: 100%;
+      padding; 0 0 0 0;
+      margin: 0 0 0 0;
+
+    }
+
+    </style>
     <body>
-          <canvas id="viewport" width="800" height="600"></canvas>
+      <!--
+          <form>
+          Search: <input type="text" name="search"><br>
+          <input type="submit" value="Submit">
+          </form>   -->  
+ 
+          <div id="wrapper">  
+            <div id = "header">
+            </div>
+            
+          <canvas id="viewport" width="1300" height="700"></canvas>
+        </div>
           <script language="javascript" type="text/javascript">
+
             var sys = arbor.ParticleSystem({repulsion: 50, stiffness: 100, friction: 7, gravity: true});
             sys.parameters({gravity:true});
             sys.renderer = Renderer("#viewport");
