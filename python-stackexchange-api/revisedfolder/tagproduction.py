@@ -73,7 +73,7 @@ def tagparsing(theobject1, theobject2): #theobject1 is the xml tree, the object2
 
 	
 	while(i < len(fileArray)-1): #simultaneously writes to last file arrray and closes files
-		tempstring = "\"" + str(equalizer + i) + "\":{\"color\":\"Blue\",\"shape\":\"dot\",\"label\":\"Strings\", \"size\": " +  str(os.path.getsize("C:\Users\Sidharth\Documents\GitHub\DownloadsNSFW\cs.stackexchange.com\TheG20\\" + dirlist[i])) + ", \"isExploded\":false, \"precedence\": 2, + \"filename\" : \"" + TagArray[i]+ "\"},"
+		tempstring = "\"" + str(equalizer + i) + "\":{\"color\":\"Blue\",\"shape\":\"dot\",\"label\":\"Strings\", \"size\": " +  str(os.path.getsize("C:\Users\Sidharth\Documents\GitHub\DownloadsNSFW\cs.stackexchange.com\TheG20\\" + dirlist[i])) + ", \"isExploded\":false, \"precedence\": 2, \"filename\" : \"" + TagArray[i]+ "\"},"
 	
 		fileArray[len(fileArray)-1].write(tempstring)
 		fileArray[i].close()
