@@ -39,7 +39,7 @@ def scorer_common_pitfall(child):
     weights = [100, 10, 100, 10, 100]
     return scorer(weights, child)
 
-tree = xml.parse('../stackdata/cs.stackexchange.com/Posts.xml')
+tree = xml.parse('data/Posts.xml')
 root = tree.getroot()
 mostviews = 0
 keyword = "regular"
