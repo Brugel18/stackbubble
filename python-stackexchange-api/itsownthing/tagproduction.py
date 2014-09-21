@@ -46,7 +46,7 @@ def tagparsing(theobject1, theobject2): #theobject1 is the xml tree, the object2
 
 	
 	while(i < len(fileArray)-1): #simultaneously writes to last file arrray and closes files
-		fileArray[len(fileArray)-1].write(str(len(fileArray)-1) + "_" + str(i) + ":{'color':getRandomColor(),'shape':'dot','label':'Strings', 'size': 60, 'isExploded':false, \"precedence\": 2," + "\"filename\" : \"" + TagArray[i]+ "\"},")
+		fileArray[len(fileArray)-1].write(str(len(fileArray)-1) + str(i) + ":{'color':getRandomColor(),'shape':'dot','label':'Strings', 'size': 60, 'isExploded':false, \"precedence\": 2," + "\"filename\" : \"" + TagArray[i]+ "\"},")
 		fileArray[i].close()
 		i = i + 1
 	fileArray[i].close()
