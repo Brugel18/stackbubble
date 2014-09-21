@@ -1,5 +1,6 @@
 import xml.etree.ElementTree as xml
 from sklearn import svm
+import numpy as np
 
 pitfalls = ["long", "difficult", "hard", "understand", "formidable", "challenging", "troublesome", "confused", "test", "tried"]
 beginner = ["beginner", "elementry", "sorry", "new", "first", "time", "never", "hw", "easy"]
@@ -38,6 +39,7 @@ def getFeatures(child, userRoot):
                 if x.attrib.get('Id') == user and 'Reputation' in x.attrib:
                     rep += float(x.attrib['Reputation'])
         features.append(float(rep))
+        features =  np.asarray(features)
         return features
     except:
         print "error"
@@ -53,56 +55,18 @@ def getTrainingSample(root, userRoot, filename):
         for child in root:
             if child.attrib.get('Id') == identifier:
                 features.append(getFeatures(child, userRoot))
+    features = np.asarray(features)
+    print features.shape
     return [classifies, features]
 
 
 
 def learn(x):
     clf = svm.SVC()
-    clf.fit([[1,2,3],[1,2,2]], [0,1])
+    clf.fit(x[1], x[0])
     return clf
 
-
-def scorer(weights, features):
-    score = 0
-    for x,y in zip(weights, features):
-        score += x*y
-    return score
-
-def scorer_difficult_problems(features):
-#todo learn weights
-    weights = [50, 10, 10, 200, -100, 1]
-    return scorer(weights, features)
-
-def scorer_common_pitfall(features):
-#todo learn weights
-    weights = [100, 50, 50, 100, 200, -1]
-    return scorer(weights, features)
-
-
-
 def main():
-    users = xml.parse('../stackdata/cs.stackexchange.com/Users.xml')
-    userRoot = users.getroot()
-
-    tree = xml.parse('../stackdata/cs.stackexchange.com/Posts.xml')
-    root = tree.getroot()
-    keyword = "turing"
-    ranks = dict()
-    for child in root:
-        try:
-            if(keyword in [x.lower() for x in child.attrib['Body'].split()]):
-                ranks[child] = scorer_difficult_problems( [getFeatures(child, userRoot)])
-        except:
-            pass
-    r = sorted(ranks.iteritems(), key=lambda (k, v): -v )
-    r = [child[0].attrib  for child in r[:10]]
-
-    for x in r:
-        print x
-
-
-def main2():
     users = xml.parse('../stackdata/cs.stackexchange.com/Users.xml')
     userRoot = users.getroot()
 
@@ -113,14 +77,22 @@ def main2():
     print samples
     clf = learn(samples);
     print clf
-
-
-    keyword = "language"
-    ranks = dict()
+    keyword = "regular"
+    toRank = list()
+    posts = list()
     for child in root:
         try:
-            print clf.predict([getFeatures(child, userRoot)])
+            if child is not None:
+                if(keyword in [x.lower() for x in child.attrib['Body'].split()]):
+                    toRank.append(getFeatures(child, userRoot))
+                    posts.append(child)
         except:
             pass
-    print ranks
-main2()
+    ranks = clf.decision_function(toRank)
+    final = [ (x,y) for x,y in zip(posts, ranks)]
+    asdf = sorted(final, key = lambda (x,y): y)[:10]
+    for fdsa,i in zip(asdf, range(len(asdf))):
+        if i > 10:
+            break
+        print fdsa[0].attrib
+main()
