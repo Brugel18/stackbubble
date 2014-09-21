@@ -23,18 +23,19 @@ def tagparsing(theobject1, theobject2): #theobject1 is the xml tree, the object2
 			pass
 	fileArray = []
 	for goods in TagArray:
-		fileArray.append(open(goods + '.txt','w'))
+		fileArray.append(open(goods + '.json','w'))
 	i = 0 #index for tagging
 	for nodes in theobject1:
 		i = 0
 		while(i < len(TagArray)):
 			try:
 				if(TagArray[i] in nodes.attrib['Tags']):
-					fileArray[i].write(str(nodes.attrib))
+					fileArray[i].write(str(nodes.attrib)[:-1]+"'color':getRandomColor(),'shape':'dot','label':'Strings', 'size': 60, 'isExploded':false, \"precedence\": 2}")
 			except:
 				pass
 			i = i + 1
 	i = 0
+	#fileArray[i].append(open())
 	while(i < len(fileArray)):
 		fileArray[i].close()
 		i = i + 1
