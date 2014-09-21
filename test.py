@@ -1,7 +1,7 @@
 import xml.etree.ElementTree as xml
 
 pitfalls = ["long", "difficult", "hard", "understand", "formidable", "challenging", "troublesome", "confused", "test", "tried"]
-beginner = ["new", "first", "time", "never", "hw"]
+beginner = ["beginner", "elementry", "sorry", "new", "first", "time", "never", "hw", "easy"]
 
 def scorer(weights, child):
     score = 0
@@ -29,28 +29,40 @@ def scorer(weights, child):
                 score += weights[4]
     except:
         pass
+    try:
+        user = child.attrib['OwnerUserId']
+        for x in userRoot:
+            if x.attrib['Id'] == user:
+                score += weights[5]*float(x.attrib['Reputation'])
+    except:
+        pass
     return score
 
 def scorer_difficult_problems(child):
-    weights = [10, 1, 100, 10, 100]
+    weights = [50, 10, 10, 200, -100, 1]
     return scorer(weights, child)
 
 def scorer_common_pitfall(child):
-    weights = [100, 10, 100, 10, 100]
+    weights = [100, 50, 50, 100, 200, -1]
     return scorer(weights, child)
 
-tree = xml.parse('data/Posts.xml')
+users = xml.parse('../stackdata/cs.stackexchange.com/Users.xml')
+userRoot = users.getroot()
+
+
+
+tree = xml.parse('../stackdata/cs.stackexchange.com/Posts.xml')
 root = tree.getroot()
-mostviews = 0
-keyword = "regular"
+keyword = "turing"
 ranks = dict()
 for child in root:
     try:
         if(keyword in [x.lower() for x in child.attrib['Body'].split()]):
-            ranks[child] = scorer_common_pitfall(child)
+            ranks[child] = scorer_difficult_problems(child)
     except:
         pass
 r = sorted(ranks.iteritems(), key=lambda (k, v): -v )
 r = [child[0].attrib  for child in r[:10]]
+
 for x in r:
     print x
