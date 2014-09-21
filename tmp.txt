@@ -1,0 +1,2815 @@
+<Element 'row' at 0x7f8e866c9110>
+<climate><atmosphere><chaos>
+<Element 'row' at 0x7f8e866c92d0>
+<atmosphere><measurements><storms>
+<Element 'row' at 0x7f8e866c94d0>
+<measurements><ocean><remote-sensing>
+<Element 'row' at 0x7f8e866c9590>
+<atmosphere><meteorology><virtual-temperature>
+<Element 'row' at 0x7f8e866c9690>
+<atmosphere><el-nino>
+<Element 'row' at 0x7f8e866c97d0>
+<atmosphere><clouds>
+<Element 'row' at 0x7f8e866c9910>
+<ocean><thermohaline-circulation><oceanography><geochronology>
+<Element 'row' at 0x7f8e866c9a10>
+<measurements><weather><history>
+<Element 'row' at 0x7f8e866c9b10>
+<climate>
+<Element 'row' at 0x7f8e866c9bd0>
+<Element 'row' at 0x7f8e866c9bd0>
+none
+
+
+<Element 'row' at 0x7f8e866c9cd0>
+<atmosphere>
+<Element 'row' at 0x7f8e866c9d90>
+<ocean>
+<Element 'row' at 0x7f8e866c9e50>
+<atmosphere><temperature>
+<Element 'row' at 0x7f8e866c9f90>
+<Element 'row' at 0x7f8e866c9f90>
+none
+
+
+<Element 'row' at 0x7f8e866d20d0>
+<atmosphere>
+<Element 'row' at 0x7f8e866d2190>
+<ocean><oceanography>
+<Element 'row' at 0x7f8e866d22d0>
+<atmosphere><temperature><tibetan-plateau>
+<Element 'row' at 0x7f8e866d23d0>
+<Element 'row' at 0x7f8e866d23d0>
+none
+
+
+<Element 'row' at 0x7f8e866d24d0>
+<weather><models>
+<Element 'row' at 0x7f8e866d2610>
+<atmosphere><climate><weather><models>
+<Element 'row' at 0x7f8e866d2710>
+<atmosphere>
+<Element 'row' at 0x7f8e866d27d0>
+<atmosphere><meteorology><climate>
+<Element 'row' at 0x7f8e866d28d0>
+<ocean>
+<Element 'row' at 0x7f8e866d29d0>
+<atmosphere>
+<Element 'row' at 0x7f8e866d2ad0>
+<ocean><oceanography>
+<Element 'row' at 0x7f8e866d2c10>
+<Element 'row' at 0x7f8e866d2c10>
+none
+
+
+<Element 'row' at 0x7f8e866d2d10>
+<weather><temperature>
+<Element 'row' at 0x7f8e866d2e50>
+<atmosphere><planetology>
+<Element 'row' at 0x7f8e866d2f90>
+<atmosphere><ocean>
+<Element 'row' at 0x7f8e866d60d0>
+<atmosphere>
+<Element 'row' at 0x7f8e866d6190>
+<climate><carbon-cycle>
+<Element 'row' at 0x7f8e866d62d0>
+<Element 'row' at 0x7f8e866d62d0>
+none
+
+
+<Element 'row' at 0x7f8e866d6390>
+<Element 'row' at 0x7f8e866d6390>
+none
+
+
+<Element 'row' at 0x7f8e866d6490>
+<climate><carbon-cycle>
+<Element 'row' at 0x7f8e866d65d0>
+<geology>
+<Element 'row' at 0x7f8e866d6690>
+<Element 'row' at 0x7f8e866d6690>
+none
+
+
+<Element 'row' at 0x7f8e866d6790>
+<geomorphology>
+<Element 'row' at 0x7f8e866d6750>
+<paleoclimatology>
+<Element 'row' at 0x7f8e866d6910>
+<climate><precipitation>
+<Element 'row' at 0x7f8e866d6a50>
+<Element 'row' at 0x7f8e866d6a50>
+none
+
+
+<Element 'row' at 0x7f8e866d6b10>
+<climate><carbon-cycle>
+<Element 'row' at 0x7f8e866d6c50>
+<climate>
+<Element 'row' at 0x7f8e866d6d10>
+<climate>
+<Element 'row' at 0x7f8e866d6e10>
+<hydrology>
+<Element 'row' at 0x7f8e866d6ed0>
+<Element 'row' at 0x7f8e866d6ed0>
+none
+
+
+<Element 'row' at 0x7f8e866d6fd0>
+<atmosphere><geophysics><ocean><models><geodynamics>
+<Element 'row' at 0x7f8e866dd110>
+<climate>
+<Element 'row' at 0x7f8e866dd210>
+<hydrology><meteorology><snowpack><sublimation><runoff>
+<Element 'row' at 0x7f8e866dd310>
+<atmosphere><thermodynamics>
+<Element 'row' at 0x7f8e866dd410>
+<Element 'row' at 0x7f8e866dd410>
+none
+
+
+<Element 'row' at 0x7f8e866dd510>
+<Element 'row' at 0x7f8e866dd510>
+none
+
+
+<Element 'row' at 0x7f8e866dd5d0>
+<Element 'row' at 0x7f8e866dd5d0>
+none
+
+
+<Element 'row' at 0x7f8e866dd6d0>
+<Element 'row' at 0x7f8e866dd6d0>
+none
+
+
+<Element 'row' at 0x7f8e866dd7d0>
+<earthquakes>
+<Element 'row' at 0x7f8e866dd8d0>
+<paleoclimatology><carbon-cycle><tibetan-plateau><cooling>
+<Element 'row' at 0x7f8e866dd9d0>
+<Element 'row' at 0x7f8e866dd9d0>
+none
+
+
+<Element 'row' at 0x7f8e866dda90>
+<paleoclimatology><ice-age><climate-change>
+<Element 'row' at 0x7f8e866ddb90>
+<Element 'row' at 0x7f8e866ddb90>
+none
+
+
+<Element 'row' at 0x7f8e866ddc50>
+<Element 'row' at 0x7f8e866ddc50>
+none
+
+
+<Element 'row' at 0x7f8e866ddd10>
+<Element 'row' at 0x7f8e866ddd10>
+none
+
+
+<Element 'row' at 0x7f8e866dde10>
+<weather><tsunami>
+<Element 'row' at 0x7f8e866ddf10>
+<Element 'row' at 0x7f8e866ddf10>
+none
+
+
+<Element 'row' at 0x7f8e866e3050>
+<Element 'row' at 0x7f8e866e3050>
+none
+
+
+<Element 'row' at 0x7f8e866e3150>
+<weather><storms><desert>
+<Element 'row' at 0x7f8e866e3290>
+<Element 'row' at 0x7f8e866e3290>
+none
+
+
+<Element 'row' at 0x7f8e866e3390>
+<weather><meteorology>
+<Element 'row' at 0x7f8e866e3490>
+<weather><meteorology><precipitation><statistics>
+<Element 'row' at 0x7f8e866e3590>
+<ocean><measurements>
+<Element 'row' at 0x7f8e866e36d0>
+<climate><human-influence><climate-change><global-warming>
+<Element 'row' at 0x7f8e866e37d0>
+<earthquakes><human-influence><mining>
+<Element 'row' at 0x7f8e866e3890>
+<Element 'row' at 0x7f8e866e3890>
+none
+
+
+<Element 'row' at 0x7f8e866e3990>
+<ocean><thermohaline-circulation><oceanography>
+<Element 'row' at 0x7f8e866e3a50>
+<fossils><paleontology>
+<Element 'row' at 0x7f8e866e3b50>
+<Element 'row' at 0x7f8e866e3b50>
+none
+
+
+<Element 'row' at 0x7f8e866e3c50>
+<Element 'row' at 0x7f8e866e3c50>
+none
+
+
+<Element 'row' at 0x7f8e866e3d10>
+<Element 'row' at 0x7f8e866e3d10>
+none
+
+
+<Element 'row' at 0x7f8e866e3dd0>
+<Element 'row' at 0x7f8e866e3dd0>
+none
+
+
+<Element 'row' at 0x7f8e866e3ed0>
+<Element 'row' at 0x7f8e866e3ed0>
+none
+
+
+<Element 'row' at 0x7f8e866e3f90>
+<Element 'row' at 0x7f8e866e3f90>
+none
+
+
+<Element 'row' at 0x7f8e866e8090>
+<Element 'row' at 0x7f8e866e8090>
+none
+
+
+<Element 'row' at 0x7f8e866e8150>
+<Element 'row' at 0x7f8e866e8150>
+none
+
+
+<Element 'row' at 0x7f8e866e8210>
+<earthquakes><fracking>
+<Element 'row' at 0x7f8e866e8350>
+<weather><storms><tornado>
+<Element 'row' at 0x7f8e866e8450>
+<Element 'row' at 0x7f8e866e8450>
+none
+
+
+<Element 'row' at 0x7f8e866e8550>
+<geophysics><geology>
+<Element 'row' at 0x7f8e866e8690>
+<Element 'row' at 0x7f8e866e8690>
+none
+
+
+<Element 'row' at 0x7f8e866e8790>
+<geophysics><resources>
+<Element 'row' at 0x7f8e866e8910>
+<Element 'row' at 0x7f8e866e8910>
+none
+
+
+<Element 'row' at 0x7f8e866e8a10>
+<Element 'row' at 0x7f8e866e8a10>
+none
+
+
+<Element 'row' at 0x7f8e866e8ad0>
+<Element 'row' at 0x7f8e866e8ad0>
+none
+
+
+<Element 'row' at 0x7f8e866e8b90>
+<geophysics>
+<Element 'row' at 0x7f8e866e8c50>
+<Element 'row' at 0x7f8e866e8c50>
+none
+
+
+<Element 'row' at 0x7f8e866e8d10>
+<ocean>
+<Element 'row' at 0x7f8e866e8e10>
+<Element 'row' at 0x7f8e866e8e10>
+none
+
+
+<Element 'row' at 0x7f8e866e8f10>
+<Element 'row' at 0x7f8e866e8f10>
+none
+
+
+<Element 'row' at 0x7f8e866e8fd0>
+<geophysics><paleomagnetism>
+<Element 'row' at 0x7f8e866f0110>
+<Element 'row' at 0x7f8e866f0110>
+none
+
+
+<Element 'row' at 0x7f8e866f0210>
+<geophysics><geothermal-heat>
+<Element 'row' at 0x7f8e866f0310>
+<resources><uranium><geochemistry>
+<Element 'row' at 0x7f8e866f0410>
+<coriolis>
+<Element 'row' at 0x7f8e866f04d0>
+<mountains><geography>
+<Element 'row' at 0x7f8e866f0610>
+<auroras>
+<Element 'row' at 0x7f8e866f0710>
+<Element 'row' at 0x7f8e866f0710>
+none
+
+
+<Element 'row' at 0x7f8e866f0810>
+<Element 'row' at 0x7f8e866f0810>
+none
+
+
+<Element 'row' at 0x7f8e866f08d0>
+<geodesy>
+<Element 'row' at 0x7f8e866f0a10>
+<Element 'row' at 0x7f8e866f0a10>
+none
+
+
+<Element 'row' at 0x7f8e866f0b10>
+<Element 'row' at 0x7f8e866f0b10>
+none
+
+
+<Element 'row' at 0x7f8e866f0c10>
+<Element 'row' at 0x7f8e866f0c10>
+none
+
+
+<Element 'row' at 0x7f8e866f0cd0>
+<Element 'row' at 0x7f8e866f0cd0>
+none
+
+
+<Element 'row' at 0x7f8e866f0dd0>
+<tsunami><waves>
+<Element 'row' at 0x7f8e866f0e90>
+<geology><mountains><geomorphology>
+<Element 'row' at 0x7f8e866f0f90>
+<mountains><geomagnetism>
+<Element 'row' at 0x7f8e866f4150>
+<Element 'row' at 0x7f8e866f4150>
+none
+
+
+<Element 'row' at 0x7f8e866f4250>
+<Element 'row' at 0x7f8e866f4250>
+none
+
+
+<Element 'row' at 0x7f8e866f4310>
+<geology><stratigraphy><archaeology>
+<Element 'row' at 0x7f8e866f43d0>
+<Element 'row' at 0x7f8e866f43d0>
+none
+
+
+<Element 'row' at 0x7f8e866f4490>
+<Element 'row' at 0x7f8e866f4490>
+none
+
+
+<Element 'row' at 0x7f8e866f4590>
+<Element 'row' at 0x7f8e866f4590>
+none
+
+
+<Element 'row' at 0x7f8e866f4650>
+<Element 'row' at 0x7f8e866f4650>
+none
+
+
+<Element 'row' at 0x7f8e866f4750>
+<Element 'row' at 0x7f8e866f4750>
+none
+
+
+<Element 'row' at 0x7f8e866f4850>
+<Element 'row' at 0x7f8e866f4850>
+none
+
+
+<Element 'row' at 0x7f8e866f4910>
+<Element 'row' at 0x7f8e866f4910>
+none
+
+
+<Element 'row' at 0x7f8e866f4a10>
+<geophysics><paleomagnetism><geomagnetism>
+<Element 'row' at 0x7f8e866f4b10>
+<meteoritics>
+<Element 'row' at 0x7f8e866f4c10>
+<geomorphology><meteorite><crater>
+<Element 'row' at 0x7f8e866f4cd0>
+<Element 'row' at 0x7f8e866f4cd0>
+none
+
+
+<Element 'row' at 0x7f8e866f4d90>
+<geology>
+<Element 'row' at 0x7f8e866f4e50>
+<Element 'row' at 0x7f8e866f4e50>
+none
+
+
+<Element 'row' at 0x7f8e866f4f10>
+<Element 'row' at 0x7f8e866f4f10>
+none
+
+
+<Element 'row' at 0x7f8e866fa050>
+<Element 'row' at 0x7f8e866fa050>
+none
+
+
+<Element 'row' at 0x7f8e866fa110>
+<Element 'row' at 0x7f8e866fa110>
+none
+
+
+<Element 'row' at 0x7f8e866fa1d0>
+<Element 'row' at 0x7f8e866fa1d0>
+none
+
+
+<Element 'row' at 0x7f8e866fa2d0>
+<Element 'row' at 0x7f8e866fa2d0>
+none
+
+
+<Element 'row' at 0x7f8e866fa3d0>
+<volcanology><speleology><glaciology>
+<Element 'row' at 0x7f8e866fa510>
+<mountains><rockies><orogeny>
+<Element 'row' at 0x7f8e866fa610>
+<Element 'row' at 0x7f8e866fa610>
+none
+
+
+<Element 'row' at 0x7f8e866fa710>
+<Element 'row' at 0x7f8e866fa710>
+none
+
+
+<Element 'row' at 0x7f8e866fa7d0>
+<Element 'row' at 0x7f8e866fa7d0>
+none
+
+
+<Element 'row' at 0x7f8e866fa8d0>
+<oceanography><ocean-currents><remote-sensing>
+<Element 'row' at 0x7f8e866fa990>
+<volcanology><plate-tectonics>
+<Element 'row' at 0x7f8e866faa50>
+<Element 'row' at 0x7f8e866faa50>
+none
+
+
+<Element 'row' at 0x7f8e866fab10>
+<Element 'row' at 0x7f8e866fab10>
+none
+
+
+<Element 'row' at 0x7f8e866fac10>
+<Element 'row' at 0x7f8e866fac10>
+none
+
+
+<Element 'row' at 0x7f8e866fad10>
+<Element 'row' at 0x7f8e866fad10>
+none
+
+
+<Element 'row' at 0x7f8e866fae10>
+<Element 'row' at 0x7f8e866fae10>
+none
+
+
+<Element 'row' at 0x7f8e866faf10>
+<geomagnetism><geobiology><astrobiology>
+<Element 'row' at 0x7f8e8502f050>
+<Element 'row' at 0x7f8e8502f050>
+none
+
+
+<Element 'row' at 0x7f8e8502f110>
+<Element 'row' at 0x7f8e8502f110>
+none
+
+
+<Element 'row' at 0x7f8e8502f1d0>
+<Element 'row' at 0x7f8e8502f1d0>
+none
+
+
+<Element 'row' at 0x7f8e8502f290>
+<volcanology><laki><vog><iceland><hydrofluoric-acid>
+<Element 'row' at 0x7f8e8502f390>
+<Element 'row' at 0x7f8e8502f390>
+none
+
+
+<Element 'row' at 0x7f8e8502f450>
+<Element 'row' at 0x7f8e8502f450>
+none
+
+
+<Element 'row' at 0x7f8e8502f510>
+<Element 'row' at 0x7f8e8502f510>
+none
+
+
+<Element 'row' at 0x7f8e8502f610>
+<Element 'row' at 0x7f8e8502f610>
+none
+
+
+<Element 'row' at 0x7f8e8502f710>
+<Element 'row' at 0x7f8e8502f710>
+none
+
+
+<Element 'row' at 0x7f8e8502f7d0>
+<Element 'row' at 0x7f8e8502f7d0>
+none
+
+
+<Element 'row' at 0x7f8e8502f890>
+<Element 'row' at 0x7f8e8502f890>
+none
+
+
+<Element 'row' at 0x7f8e8502f950>
+<Element 'row' at 0x7f8e8502f950>
+none
+
+
+<Element 'row' at 0x7f8e8502fa10>
+<Element 'row' at 0x7f8e8502fa10>
+none
+
+
+<Element 'row' at 0x7f8e8502fad0>
+<Element 'row' at 0x7f8e8502fad0>
+none
+
+
+<Element 'row' at 0x7f8e8502fb90>
+<Element 'row' at 0x7f8e8502fb90>
+none
+
+
+<Element 'row' at 0x7f8e8502fc50>
+<Element 'row' at 0x7f8e8502fc50>
+none
+
+
+<Element 'row' at 0x7f8e8502fd50>
+<paleoclimatology><fossils><stromatolites>
+<Element 'row' at 0x7f8e8502fe50>
+<oceanography><cf-metadata>
+<Element 'row' at 0x7f8e8502ff90>
+<Element 'row' at 0x7f8e8502ff90>
+none
+
+
+<Element 'row' at 0x7f8e850350d0>
+<ocean><oceanography><models><modeling>
+<Element 'row' at 0x7f8e850351d0>
+<geophysics><volcanology><geysers><geodynamics>
+<Element 'row' at 0x7f8e850352d0>
+<Element 'row' at 0x7f8e850352d0>
+none
+
+
+<Element 'row' at 0x7f8e85035390>
+<earthquakes><volcanoes>
+<Element 'row' at 0x7f8e850354d0>
+<igneous><petrology><polymerization><melting>
+<Element 'row' at 0x7f8e850355d0>
+<Element 'row' at 0x7f8e850355d0>
+none
+
+
+<Element 'row' at 0x7f8e850356d0>
+<Element 'row' at 0x7f8e850356d0>
+none
+
+
+<Element 'row' at 0x7f8e85035790>
+<Element 'row' at 0x7f8e85035790>
+none
+
+
+<Element 'row' at 0x7f8e85035850>
+<ocean><oceanography><thermohaline-circulation>
+<Element 'row' at 0x7f8e85035950>
+<Element 'row' at 0x7f8e85035950>
+none
+
+
+<Element 'row' at 0x7f8e85035a50>
+<Element 'row' at 0x7f8e85035a50>
+none
+
+
+<Element 'row' at 0x7f8e85035b50>
+<Element 'row' at 0x7f8e85035b50>
+none
+
+
+<Element 'row' at 0x7f8e85035c10>
+<atmosphere><tides><moon>
+<Element 'row' at 0x7f8e85035d50>
+<Element 'row' at 0x7f8e85035d50>
+none
+
+
+<Element 'row' at 0x7f8e85035e50>
+<Element 'row' at 0x7f8e85035e50>
+none
+
+
+<Element 'row' at 0x7f8e85035f50>
+<atmosphere><upper-atmosphere>
+<Element 'row' at 0x7f8e8503b050>
+<Element 'row' at 0x7f8e8503b050>
+none
+
+
+<Element 'row' at 0x7f8e8503b150>
+<Element 'row' at 0x7f8e8503b150>
+none
+
+
+<Element 'row' at 0x7f8e8503b250>
+<Element 'row' at 0x7f8e8503b250>
+none
+
+
+<Element 'row' at 0x7f8e8503b350>
+<ocean><argo><nwp>
+<Element 'row' at 0x7f8e8503b450>
+<Element 'row' at 0x7f8e8503b450>
+none
+
+
+<Element 'row' at 0x7f8e8503b550>
+<Element 'row' at 0x7f8e8503b550>
+none
+
+
+<Element 'row' at 0x7f8e8503b650>
+<Element 'row' at 0x7f8e8503b650>
+none
+
+
+<Element 'row' at 0x7f8e8503b750>
+<Element 'row' at 0x7f8e8503b750>
+none
+
+
+<Element 'row' at 0x7f8e8503b850>
+<earth-observation><weather-satellites>
+<Element 'row' at 0x7f8e8503b950>
+<earth-observation><weather-satellites>
+<Element 'row' at 0x7f8e8503ba10>
+<atmosphere><el-nino>
+<Element 'row' at 0x7f8e8503bb50>
+<Element 'row' at 0x7f8e8503bb50>
+none
+
+
+<Element 'row' at 0x7f8e8503bc50>
+<Element 'row' at 0x7f8e8503bc50>
+none
+
+
+<Element 'row' at 0x7f8e8503bd50>
+<Element 'row' at 0x7f8e8503bd50>
+none
+
+
+<Element 'row' at 0x7f8e8503be50>
+<Element 'row' at 0x7f8e8503be50>
+none
+
+
+<Element 'row' at 0x7f8e8503bf50>
+<clouds><tropopause><convection>
+<Element 'row' at 0x7f8e8503f090>
+<Element 'row' at 0x7f8e8503f090>
+none
+
+
+<Element 'row' at 0x7f8e8503f190>
+<Element 'row' at 0x7f8e8503f190>
+none
+
+
+<Element 'row' at 0x7f8e8503f290>
+<Element 'row' at 0x7f8e8503f290>
+none
+
+
+<Element 'row' at 0x7f8e8503f390>
+<Element 'row' at 0x7f8e8503f390>
+none
+
+
+<Element 'row' at 0x7f8e8503f490>
+<Element 'row' at 0x7f8e8503f490>
+none
+
+
+<Element 'row' at 0x7f8e8503f590>
+<Element 'row' at 0x7f8e8503f590>
+none
+
+
+<Element 'row' at 0x7f8e8503f690>
+<Element 'row' at 0x7f8e8503f690>
+none
+
+
+<Element 'row' at 0x7f8e8503f790>
+<Element 'row' at 0x7f8e8503f790>
+none
+
+
+<Element 'row' at 0x7f8e8503f890>
+<Element 'row' at 0x7f8e8503f890>
+none
+
+
+<Element 'row' at 0x7f8e8503f990>
+<Element 'row' at 0x7f8e8503f990>
+none
+
+
+<Element 'row' at 0x7f8e8503fa90>
+<atmosphere><upper-atmosphere>
+<Element 'row' at 0x7f8e8503fb90>
+<atmosphere><el-nino>
+<Element 'row' at 0x7f8e8503fcd0>
+<Element 'row' at 0x7f8e8503fcd0>
+none
+
+
+<Element 'row' at 0x7f8e8503fd90>
+<Element 'row' at 0x7f8e8503fd90>
+none
+
+
+<Element 'row' at 0x7f8e8503fe50>
+<paleomagnetism>
+<Element 'row' at 0x7f8e8503ff50>
+<Element 'row' at 0x7f8e8503ff50>
+none
+
+
+<Element 'row' at 0x7f8e85045050>
+<seismology><microseism>
+<Element 'row' at 0x7f8e85045190>
+<geology>
+<Element 'row' at 0x7f8e85045290>
+<Element 'row' at 0x7f8e85045290>
+none
+
+
+<Element 'row' at 0x7f8e85045350>
+<earthquakes>
+<Element 'row' at 0x7f8e85045410>
+<Element 'row' at 0x7f8e85045410>
+none
+
+
+<Element 'row' at 0x7f8e850454d0>
+<Element 'row' at 0x7f8e850454d0>
+none
+
+
+<Element 'row' at 0x7f8e850455d0>
+<ocean>
+<Element 'row' at 0x7f8e850456d0>
+<atmosphere><meteorology><models><nwp><mos>
+<Element 'row' at 0x7f8e850457d0>
+<Element 'row' at 0x7f8e850457d0>
+none
+
+
+<Element 'row' at 0x7f8e850458d0>
+<Element 'row' at 0x7f8e850458d0>
+none
+
+
+<Element 'row' at 0x7f8e850459d0>
+<oceanography><geochemistry>
+<Element 'row' at 0x7f8e85045a90>
+<Element 'row' at 0x7f8e85045a90>
+none
+
+
+<Element 'row' at 0x7f8e85045b50>
+<Element 'row' at 0x7f8e85045b50>
+none
+
+
+<Element 'row' at 0x7f8e85045c50>
+<Element 'row' at 0x7f8e85045c50>
+none
+
+
+<Element 'row' at 0x7f8e85045d10>
+<Element 'row' at 0x7f8e85045d10>
+none
+
+
+<Element 'row' at 0x7f8e85045dd0>
+<ocean><precipitation><evaporation>
+<Element 'row' at 0x7f8e85045e90>
+<ocean><oceanography><remote-sensing><salinity>
+<Element 'row' at 0x7f8e85045f90>
+<Element 'row' at 0x7f8e85045f90>
+none
+
+
+<Element 'row' at 0x7f8e8504a090>
+<geophysics>
+<Element 'row' at 0x7f8e8504a150>
+<Element 'row' at 0x7f8e8504a150>
+none
+
+
+<Element 'row' at 0x7f8e8504a250>
+<meteorology><troposphere><stratosphere><synoptic><vorticity>
+<Element 'row' at 0x7f8e8504a350>
+<meteorology><coriolis><hurricane><equator><tropical-cyclone>
+<Element 'row' at 0x7f8e8504a450>
+<climate><temperature><core>
+<Element 'row' at 0x7f8e8504a550>
+<meteorology><synoptic><cyclone>
+<Element 'row' at 0x7f8e8504a650>
+<Element 'row' at 0x7f8e8504a650>
+none
+
+
+<Element 'row' at 0x7f8e8504a750>
+<volcanology>
+<Element 'row' at 0x7f8e8504a8d0>
+<tsunami>
+<Element 'row' at 0x7f8e8504a9d0>
+<weather><chaos>
+<Element 'row' at 0x7f8e8504ab10>
+<mantle><core>
+<Element 'row' at 0x7f8e8504aad0>
+<Element 'row' at 0x7f8e8504aad0>
+none
+
+
+<Element 'row' at 0x7f8e8504ac90>
+<Element 'row' at 0x7f8e8504ac90>
+none
+
+
+<Element 'row' at 0x7f8e8504ad50>
+<Element 'row' at 0x7f8e8504ad50>
+none
+
+
+<Element 'row' at 0x7f8e8504ae50>
+<weather><meteorology><vorticity><hurricane>
+<Element 'row' at 0x7f8e8504af50>
+<Element 'row' at 0x7f8e8504af50>
+none
+
+
+<Element 'row' at 0x7f8e85051050>
+<Element 'row' at 0x7f8e85051050>
+none
+
+
+<Element 'row' at 0x7f8e85051150>
+<Element 'row' at 0x7f8e85051150>
+none
+
+
+<Element 'row' at 0x7f8e85051210>
+<geophysics><volcanology><plate-tectonics><geodynamics>
+<Element 'row' at 0x7f8e850512d0>
+<Element 'row' at 0x7f8e850512d0>
+none
+
+
+<Element 'row' at 0x7f8e85051390>
+<Element 'row' at 0x7f8e85051390>
+none
+
+
+<Element 'row' at 0x7f8e85051490>
+<geothermal-heat><mantle>
+<Element 'row' at 0x7f8e850515d0>
+<Element 'row' at 0x7f8e850515d0>
+none
+
+
+<Element 'row' at 0x7f8e850516d0>
+<Element 'row' at 0x7f8e850516d0>
+none
+
+
+<Element 'row' at 0x7f8e85051790>
+<Element 'row' at 0x7f8e85051790>
+none
+
+
+<Element 'row' at 0x7f8e85051850>
+<rocks>
+<Element 'row' at 0x7f8e850519d0>
+<Element 'row' at 0x7f8e850519d0>
+none
+
+
+<Element 'row' at 0x7f8e85051a90>
+<paleogeography><sea-level>
+<Element 'row' at 0x7f8e85051bd0>
+<geophysics><geology>
+<Element 'row' at 0x7f8e85051d50>
+<Element 'row' at 0x7f8e85051d50>
+none
+
+
+<Element 'row' at 0x7f8e85051e50>
+<geology><hydrology><water-table>
+<Element 'row' at 0x7f8e85051f50>
+<Element 'row' at 0x7f8e85051f50>
+none
+
+
+<Element 'row' at 0x7f8e85057050>
+<Element 'row' at 0x7f8e85057050>
+none
+
+
+<Element 'row' at 0x7f8e85057110>
+<Element 'row' at 0x7f8e85057110>
+none
+
+
+<Element 'row' at 0x7f8e850571d0>
+<Element 'row' at 0x7f8e850571d0>
+none
+
+
+<Element 'row' at 0x7f8e85057290>
+<diagenesis><sedimentology>
+<Element 'row' at 0x7f8e85057390>
+<Element 'row' at 0x7f8e85057390>
+none
+
+
+<Element 'row' at 0x7f8e85057450>
+<Element 'row' at 0x7f8e85057450>
+none
+
+
+<Element 'row' at 0x7f8e85057510>
+<structural-geology><boudinage><stretching>
+<Element 'row' at 0x7f8e85057610>
+<Element 'row' at 0x7f8e85057610>
+none
+
+
+<Element 'row' at 0x7f8e850576d0>
+<oceanography><sea-level><paleogene><antarctic>
+<Element 'row' at 0x7f8e850577d0>
+<Element 'row' at 0x7f8e850577d0>
+none
+
+
+<Element 'row' at 0x7f8e850578d0>
+<geology><geomorphology><erosion>
+<Element 'row' at 0x7f8e85057a10>
+<geology><petrology><lithology>
+<Element 'row' at 0x7f8e85057b10>
+<Element 'row' at 0x7f8e85057b10>
+none
+
+
+<Element 'row' at 0x7f8e85057c10>
+<Element 'row' at 0x7f8e85057c10>
+none
+
+
+<Element 'row' at 0x7f8e85057d10>
+<seismology><inversion>
+<Element 'row' at 0x7f8e85057e10>
+<Element 'row' at 0x7f8e85057e10>
+none
+
+
+<Element 'row' at 0x7f8e85057f10>
+<volcanoes><pyroclastic-flows>
+<Element 'row' at 0x7f8e8505c050>
+<terminology><terrain>
+<Element 'row' at 0x7f8e8505c1d0>
+<Element 'row' at 0x7f8e8505c1d0>
+none
+
+
+<Element 'row' at 0x7f8e8505c290>
+<Element 'row' at 0x7f8e8505c290>
+none
+
+
+<Element 'row' at 0x7f8e8505c350>
+<Element 'row' at 0x7f8e8505c350>
+none
+
+
+<Element 'row' at 0x7f8e8505c450>
+<regional-geology><stratigraphy>
+<Element 'row' at 0x7f8e8505c550>
+<regional-geology>
+<Element 'row' at 0x7f8e8505c650>
+<paleontology>
+<Element 'row' at 0x7f8e8505c610>
+<meteorology><models><nwp><validation>
+<Element 'row' at 0x7f8e8505c810>
+<Element 'row' at 0x7f8e8505c810>
+none
+
+
+<Element 'row' at 0x7f8e8505c910>
+<Element 'row' at 0x7f8e8505c910>
+none
+
+
+<Element 'row' at 0x7f8e8505ca10>
+<Element 'row' at 0x7f8e8505ca10>
+none
+
+
+<Element 'row' at 0x7f8e8505cb10>
+<meteorology><coriolis><wind><dynamics>
+<Element 'row' at 0x7f8e8505cc10>
+<Element 'row' at 0x7f8e8505cc10>
+none
+
+
+<Element 'row' at 0x7f8e8505cd10>
+<Element 'row' at 0x7f8e8505cd10>
+none
+
+
+<Element 'row' at 0x7f8e8505ce10>
+<Element 'row' at 0x7f8e8505ce10>
+none
+
+
+<Element 'row' at 0x7f8e8505cf10>
+<Element 'row' at 0x7f8e8505cf10>
+none
+
+
+<Element 'row' at 0x7f8e85061050>
+<meteorology><convection><lightning><electromagnetism>
+<Element 'row' at 0x7f8e85061150>
+<Element 'row' at 0x7f8e85061150>
+none
+
+
+<Element 'row' at 0x7f8e85061210>
+<Element 'row' at 0x7f8e85061210>
+none
+
+
+<Element 'row' at 0x7f8e85061310>
+<orogeny><caledonian><appalachian><correlation>
+<Element 'row' at 0x7f8e850613d0>
+<Element 'row' at 0x7f8e850613d0>
+none
+
+
+<Element 'row' at 0x7f8e85061490>
+<geology><volcanology><geochemistry><rare-earth><magmatism>
+<Element 'row' at 0x7f8e85061590>
+<Element 'row' at 0x7f8e85061590>
+none
+
+
+<Element 'row' at 0x7f8e85061690>
+<Element 'row' at 0x7f8e85061690>
+none
+
+
+<Element 'row' at 0x7f8e85061750>
+<Element 'row' at 0x7f8e85061750>
+none
+
+
+<Element 'row' at 0x7f8e85061810>
+<Element 'row' at 0x7f8e85061810>
+none
+
+
+<Element 'row' at 0x7f8e85061910>
+<fracking><gas>
+<Element 'row' at 0x7f8e850618d0>
+<ocean><oceanography><sea-level><tides>
+<Element 'row' at 0x7f8e85061ad0>
+<geobiology><ore><iron><earth-history><precambrian>
+<Element 'row' at 0x7f8e85061bd0>
+<oceanography><models><modelling><coastal>
+<Element 'row' at 0x7f8e85061cd0>
+<atmosphere><weather><meteorology><jet-stream><air-currents>
+<Element 'row' at 0x7f8e85061dd0>
+<geology><crystals>
+<Element 'row' at 0x7f8e85061ed0>
+<Element 'row' at 0x7f8e85061ed0>
+none
+
+
+<Element 'row' at 0x7f8e85061f90>
+<geology><crystals><mineralogy><minerals>
+<Element 'row' at 0x7f8e8506a0d0>
+<Element 'row' at 0x7f8e8506a0d0>
+none
+
+
+<Element 'row' at 0x7f8e8506a1d0>
+<Element 'row' at 0x7f8e8506a1d0>
+none
+
+
+<Element 'row' at 0x7f8e8506a2d0>
+<Element 'row' at 0x7f8e8506a2d0>
+none
+
+
+<Element 'row' at 0x7f8e8506a3d0>
+<Element 'row' at 0x7f8e8506a3d0>
+none
+
+
+<Element 'row' at 0x7f8e8506a4d0>
+<Element 'row' at 0x7f8e8506a4d0>
+none
+
+
+<Element 'row' at 0x7f8e8506a590>
+<terminology><sea-ice><cryosphere>
+<Element 'row' at 0x7f8e8506a690>
+<terminology><soil><bedrock><soil-horizon>
+<Element 'row' at 0x7f8e8506a750>
+<Element 'row' at 0x7f8e8506a750>
+none
+
+
+<Element 'row' at 0x7f8e8506a850>
+<geology><subduction><troodos><ophiolite><serpentinization>
+<Element 'row' at 0x7f8e8506a910>
+<mantle><geologic-layers>
+<Element 'row' at 0x7f8e8506aa10>
+<geophysics><measurements>
+<Element 'row' at 0x7f8e8506ab50>
+<Element 'row' at 0x7f8e8506ab50>
+none
+
+
+<Element 'row' at 0x7f8e8506ac50>
+<Element 'row' at 0x7f8e8506ac50>
+none
+
+
+<Element 'row' at 0x7f8e8506ad50>
+<Element 'row' at 0x7f8e8506ad50>
+none
+
+
+<Element 'row' at 0x7f8e8506ae10>
+<rivers><potamology>
+<Element 'row' at 0x7f8e8506af10>
+<Element 'row' at 0x7f8e8506af10>
+none
+
+
+<Element 'row' at 0x7f8e8506afd0>
+<potamology>
+<Element 'row' at 0x7f8e84fef110>
+<Element 'row' at 0x7f8e84fef110>
+none
+
+
+<Element 'row' at 0x7f8e84fef210>
+<atmosphere><meteorology><atmospheric-circulation><jet-stream>
+<Element 'row' at 0x7f8e84fef310>
+<crystals>
+<Element 'row' at 0x7f8e84fef3d0>
+<paleoclimatology>
+<Element 'row' at 0x7f8e84fef490>
+<Element 'row' at 0x7f8e84fef490>
+none
+
+
+<Element 'row' at 0x7f8e84fef550>
+<Element 'row' at 0x7f8e84fef550>
+none
+
+
+<Element 'row' at 0x7f8e84fef610>
+<geology>
+<Element 'row' at 0x7f8e84fef6d0>
+<geophysics><measurements><seismology>
+<Element 'row' at 0x7f8e84fef7d0>
+<Element 'row' at 0x7f8e84fef7d0>
+none
+
+
+<Element 'row' at 0x7f8e84fef8d0>
+<geophysics><seismology><waves>
+<Element 'row' at 0x7f8e84fef9d0>
+<geophysics><seismology><waves>
+<Element 'row' at 0x7f8e84fefad0>
+<geophysics><measurements><seismology>
+<Element 'row' at 0x7f8e84fefb90>
+<Element 'row' at 0x7f8e84fefb90>
+none
+
+
+<Element 'row' at 0x7f8e84fefc50>
+<Element 'row' at 0x7f8e84fefc50>
+none
+
+
+<Element 'row' at 0x7f8e84fefd10>
+<Element 'row' at 0x7f8e84fefd10>
+none
+
+
+<Element 'row' at 0x7f8e84fefdd0>
+<Element 'row' at 0x7f8e84fefdd0>
+none
+
+
+<Element 'row' at 0x7f8e84fefe90>
+<Element 'row' at 0x7f8e84fefe90>
+none
+
+
+<Element 'row' at 0x7f8e84feff50>
+<Element 'row' at 0x7f8e84feff50>
+none
+
+
+<Element 'row' at 0x7f8e84ff5050>
+<plate-tectonics>
+<Element 'row' at 0x7f8e84ff5150>
+<Element 'row' at 0x7f8e84ff5150>
+none
+
+
+<Element 'row' at 0x7f8e84ff5250>
+<geophysics><measurements><permeability>
+<Element 'row' at 0x7f8e84ff5310>
+<Element 'row' at 0x7f8e84ff5310>
+none
+
+
+<Element 'row' at 0x7f8e84ff53d0>
+<diagenesis><sedimentology><concretions><metamorphism>
+<Element 'row' at 0x7f8e84ff54d0>
+<Element 'row' at 0x7f8e84ff54d0>
+none
+
+
+<Element 'row' at 0x7f8e84ff5590>
+<Element 'row' at 0x7f8e84ff5590>
+none
+
+
+<Element 'row' at 0x7f8e84ff5650>
+<geophysics><paleoclimatology><paleontology>
+<Element 'row' at 0x7f8e84ff5750>
+<plate-tectonics>
+<Element 'row' at 0x7f8e84ff5850>
+<coriolis><cyclone>
+<Element 'row' at 0x7f8e84ff5910>
+<geophysics><volcanology><geodynamics>
+<Element 'row' at 0x7f8e84ff5a10>
+<Element 'row' at 0x7f8e84ff5a10>
+none
+
+
+<Element 'row' at 0x7f8e84ff5b10>
+<Element 'row' at 0x7f8e84ff5b10>
+none
+
+
+<Element 'row' at 0x7f8e84ff5c10>
+<Element 'row' at 0x7f8e84ff5c10>
+none
+
+
+<Element 'row' at 0x7f8e84ff5cd0>
+<weather-satellites><open-data>
+<Element 'row' at 0x7f8e84ff5dd0>
+<geospatial><database>
+<Element 'row' at 0x7f8e84ff5f10>
+<ocean><climate><el-nino><atmospheric-circulation>
+<Element 'row' at 0x7f8e84ffd090>
+<Element 'row' at 0x7f8e84ffd090>
+none
+
+
+<Element 'row' at 0x7f8e84ffd150>
+<Element 'row' at 0x7f8e84ffd150>
+none
+
+
+<Element 'row' at 0x7f8e84ffd250>
+<geology><fossils><rocks>
+<Element 'row' at 0x7f8e84ffd390>
+<Element 'row' at 0x7f8e84ffd390>
+none
+
+
+<Element 'row' at 0x7f8e84ffd450>
+<Element 'row' at 0x7f8e84ffd450>
+none
+
+
+<Element 'row' at 0x7f8e84ffd510>
+<paleontology><palaeobotany><mass-extinction><evolution>
+<Element 'row' at 0x7f8e84ffd610>
+<Element 'row' at 0x7f8e84ffd610>
+none
+
+
+<Element 'row' at 0x7f8e84ffd6d0>
+<Element 'row' at 0x7f8e84ffd6d0>
+none
+
+
+<Element 'row' at 0x7f8e84ffd7d0>
+<Element 'row' at 0x7f8e84ffd7d0>
+none
+
+
+<Element 'row' at 0x7f8e84ffd890>
+<meteorology><atmospheric-circulation>
+<Element 'row' at 0x7f8e84ffd990>
+<Element 'row' at 0x7f8e84ffd990>
+none
+
+
+<Element 'row' at 0x7f8e84ffda90>
+<Element 'row' at 0x7f8e84ffda90>
+none
+
+
+<Element 'row' at 0x7f8e84ffdb90>
+<prospecting>
+<Element 'row' at 0x7f8e84ffdc90>
+<Element 'row' at 0x7f8e84ffdc90>
+none
+
+
+<Element 'row' at 0x7f8e84ffdd90>
+<paleontology><microfossil><taphonomy>
+<Element 'row' at 0x7f8e84ffde90>
+<Element 'row' at 0x7f8e84ffde90>
+none
+
+
+<Element 'row' at 0x7f8e84ffdf90>
+<Element 'row' at 0x7f8e84ffdf90>
+none
+
+
+<Element 'row' at 0x7f8e850020d0>
+<Element 'row' at 0x7f8e850020d0>
+none
+
+
+<Element 'row' at 0x7f8e85002190>
+<Element 'row' at 0x7f8e85002190>
+none
+
+
+<Element 'row' at 0x7f8e85002290>
+<geology><drought>
+<Element 'row' at 0x7f8e85002390>
+<Element 'row' at 0x7f8e85002390>
+none
+
+
+<Element 'row' at 0x7f8e85002490>
+<geophysics><geodynamics><core>
+<Element 'row' at 0x7f8e85002590>
+<geophysics><oceanography><geodynamics><planetary-science><tectonics>
+<Element 'row' at 0x7f8e85002690>
+<Element 'row' at 0x7f8e85002690>
+none
+
+
+<Element 'row' at 0x7f8e85002750>
+<Element 'row' at 0x7f8e85002750>
+none
+
+
+<Element 'row' at 0x7f8e85002810>
+<Element 'row' at 0x7f8e85002810>
+none
+
+
+<Element 'row' at 0x7f8e85002910>
+<Element 'row' at 0x7f8e85002910>
+none
+
+
+<Element 'row' at 0x7f8e850029d0>
+<Element 'row' at 0x7f8e850029d0>
+none
+
+
+<Element 'row' at 0x7f8e85002a90>
+<Element 'row' at 0x7f8e85002a90>
+none
+
+
+<Element 'row' at 0x7f8e85002b90>
+<Element 'row' at 0x7f8e85002b90>
+none
+
+
+<Element 'row' at 0x7f8e85002c90>
+<Element 'row' at 0x7f8e85002c90>
+none
+
+
+<Element 'row' at 0x7f8e85002d90>
+<Element 'row' at 0x7f8e85002d90>
+none
+
+
+<Element 'row' at 0x7f8e85002e90>
+<Element 'row' at 0x7f8e85002e90>
+none
+
+
+<Element 'row' at 0x7f8e85002f90>
+<Element 'row' at 0x7f8e85002f90>
+none
+
+
+<Element 'row' at 0x7f8e850080d0>
+<geochemistry><geobiology>
+<Element 'row' at 0x7f8e85008210>
+<paleontology><diagenesis><sedimentology><biomineralization>
+<Element 'row' at 0x7f8e85008350>
+<Element 'row' at 0x7f8e85008350>
+none
+
+
+<Element 'row' at 0x7f8e85008410>
+<plate-tectonics>
+<Element 'row' at 0x7f8e85008510>
+<Element 'row' at 0x7f8e85008510>
+none
+
+
+<Element 'row' at 0x7f8e85008610>
+<tsunami>
+<Element 'row' at 0x7f8e85008710>
+<ocean><waves>
+<Element 'row' at 0x7f8e850086d0>
+<plate-tectonics>
+<Element 'row' at 0x7f8e85008850>
+<Element 'row' at 0x7f8e85008850>
+none
+
+
+<Element 'row' at 0x7f8e85008950>
+<climate><temperature><global-warming>
+<Element 'row' at 0x7f8e85008a50>
+<Element 'row' at 0x7f8e85008a50>
+none
+
+
+<Element 'row' at 0x7f8e85008b50>
+<geophysics><geodynamics><core><human-influence>
+<Element 'row' at 0x7f8e85008c50>
+<Element 'row' at 0x7f8e85008c50>
+none
+
+
+<Element 'row' at 0x7f8e85008d50>
+<Element 'row' at 0x7f8e85008d50>
+none
+
+
+<Element 'row' at 0x7f8e85008e50>
+<Element 'row' at 0x7f8e85008e50>
+none
+
+
+<Element 'row' at 0x7f8e85008f50>
+<solar-terrestrial-physics>
+<Element 'row' at 0x7f8e8500f0d0>
+<ice-age><deglaciation><cold-event>
+<Element 'row' at 0x7f8e8500f190>
+<Element 'row' at 0x7f8e8500f190>
+none
+
+
+<Element 'row' at 0x7f8e8500f290>
+<Element 'row' at 0x7f8e8500f290>
+none
+
+
+<Element 'row' at 0x7f8e8500f350>
+<Element 'row' at 0x7f8e8500f350>
+none
+
+
+<Element 'row' at 0x7f8e8500f410>
+<Element 'row' at 0x7f8e8500f410>
+none
+
+
+<Element 'row' at 0x7f8e8500f510>
+<ocean><oceanography><models><modeling>
+<Element 'row' at 0x7f8e8500f610>
+<land-surface><climate-models><plant-functional-types><biophysics>
+<Element 'row' at 0x7f8e8500f6d0>
+<Element 'row' at 0x7f8e8500f6d0>
+none
+
+
+<Element 'row' at 0x7f8e8500f7d0>
+<Element 'row' at 0x7f8e8500f7d0>
+none
+
+
+<Element 'row' at 0x7f8e8500f890>
+<meteorology><snow><crystallography>
+<Element 'row' at 0x7f8e8500f990>
+<Element 'row' at 0x7f8e8500f990>
+none
+
+
+<Element 'row' at 0x7f8e8500fa90>
+<measurements><remote-sensing><astrobiology><planetary-science>
+<Element 'row' at 0x7f8e8500fb90>
+<Element 'row' at 0x7f8e8500fb90>
+none
+
+
+<Element 'row' at 0x7f8e8500fc90>
+<Element 'row' at 0x7f8e8500fc90>
+none
+
+
+<Element 'row' at 0x7f8e8500fd90>
+<Element 'row' at 0x7f8e8500fd90>
+none
+
+
+<Element 'row' at 0x7f8e8500fe90>
+<Element 'row' at 0x7f8e8500fe90>
+none
+
+
+<Element 'row' at 0x7f8e8500ff50>
+<geophysics><plate-tectonics><geothermal-heat>
+<Element 'row' at 0x7f8e85015050>
+<Element 'row' at 0x7f8e85015050>
+none
+
+
+<Element 'row' at 0x7f8e85015110>
+<Element 'row' at 0x7f8e85015110>
+none
+
+
+<Element 'row' at 0x7f8e850151d0>
+<Element 'row' at 0x7f8e850151d0>
+none
+
+
+<Element 'row' at 0x7f8e85015290>
+<Element 'row' at 0x7f8e85015290>
+none
+
+
+<Element 'row' at 0x7f8e85015350>
+<Element 'row' at 0x7f8e85015350>
+none
+
+
+<Element 'row' at 0x7f8e85015450>
+<Element 'row' at 0x7f8e85015450>
+none
+
+
+<Element 'row' at 0x7f8e85015510>
+<Element 'row' at 0x7f8e85015510>
+none
+
+
+<Element 'row' at 0x7f8e850155d0>
+<Element 'row' at 0x7f8e850155d0>
+none
+
+
+<Element 'row' at 0x7f8e85015690>
+<Element 'row' at 0x7f8e85015690>
+none
+
+
+<Element 'row' at 0x7f8e85015750>
+<Element 'row' at 0x7f8e85015750>
+none
+
+
+<Element 'row' at 0x7f8e85015810>
+<Element 'row' at 0x7f8e85015810>
+none
+
+
+<Element 'row' at 0x7f8e85015910>
+<Element 'row' at 0x7f8e85015910>
+none
+
+
+<Element 'row' at 0x7f8e85015a10>
+<Element 'row' at 0x7f8e85015a10>
+none
+
+
+<Element 'row' at 0x7f8e85015b10>
+<Element 'row' at 0x7f8e85015b10>
+none
+
+
+<Element 'row' at 0x7f8e85015bd0>
+<Element 'row' at 0x7f8e85015bd0>
+none
+
+
+<Element 'row' at 0x7f8e85015cd0>
+<Element 'row' at 0x7f8e85015cd0>
+none
+
+
+<Element 'row' at 0x7f8e85015dd0>
+<Element 'row' at 0x7f8e85015dd0>
+none
+
+
+<Element 'row' at 0x7f8e85015ed0>
+<Element 'row' at 0x7f8e85015ed0>
+none
+
+
+<Element 'row' at 0x7f8e85015fd0>
+<Element 'row' at 0x7f8e85015fd0>
+none
+
+
+<Element 'row' at 0x7f8e8501a110>
+<Element 'row' at 0x7f8e8501a110>
+none
+
+
+<Element 'row' at 0x7f8e8501a210>
+<Element 'row' at 0x7f8e8501a210>
+none
+
+
+<Element 'row' at 0x7f8e8501a310>
+<Element 'row' at 0x7f8e8501a310>
+none
+
+
+<Element 'row' at 0x7f8e8501a410>
+<Element 'row' at 0x7f8e8501a410>
+none
+
+
+<Element 'row' at 0x7f8e8501a510>
+<Element 'row' at 0x7f8e8501a510>
+none
+
+
+<Element 'row' at 0x7f8e8501a610>
+<Element 'row' at 0x7f8e8501a610>
+none
+
+
+<Element 'row' at 0x7f8e8501a710>
+<Element 'row' at 0x7f8e8501a710>
+none
+
+
+<Element 'row' at 0x7f8e8501a810>
+<Element 'row' at 0x7f8e8501a810>
+none
+
+
+<Element 'row' at 0x7f8e8501a910>
+<Element 'row' at 0x7f8e8501a910>
+none
+
+
+<Element 'row' at 0x7f8e8501aa10>
+<Element 'row' at 0x7f8e8501aa10>
+none
+
+
+<Element 'row' at 0x7f8e8501ab10>
+<Element 'row' at 0x7f8e8501ab10>
+none
+
+
+<Element 'row' at 0x7f8e8501ac10>
+<Element 'row' at 0x7f8e8501ac10>
+none
+
+
+<Element 'row' at 0x7f8e8501ad10>
+<Element 'row' at 0x7f8e8501ad10>
+none
+
+
+<Element 'row' at 0x7f8e8501ae10>
+<Element 'row' at 0x7f8e8501ae10>
+none
+
+
+<Element 'row' at 0x7f8e8501af10>
+<Element 'row' at 0x7f8e8501af10>
+none
+
+
+<Element 'row' at 0x7f8e8501f050>
+<Element 'row' at 0x7f8e8501f050>
+none
+
+
+<Element 'row' at 0x7f8e8501f150>
+<Element 'row' at 0x7f8e8501f150>
+none
+
+
+<Element 'row' at 0x7f8e8501f250>
+<Element 'row' at 0x7f8e8501f250>
+none
+
+
+<Element 'row' at 0x7f8e8501f350>
+<Element 'row' at 0x7f8e8501f350>
+none
+
+
+<Element 'row' at 0x7f8e8501f450>
+<Element 'row' at 0x7f8e8501f450>
+none
+
+
+<Element 'row' at 0x7f8e8501f550>
+<Element 'row' at 0x7f8e8501f550>
+none
+
+
+<Element 'row' at 0x7f8e8501f650>
+<Element 'row' at 0x7f8e8501f650>
+none
+
+
+<Element 'row' at 0x7f8e8501f750>
+<Element 'row' at 0x7f8e8501f750>
+none
+
+
+<Element 'row' at 0x7f8e8501f850>
+<Element 'row' at 0x7f8e8501f850>
+none
+
+
+<Element 'row' at 0x7f8e8501f950>
+<Element 'row' at 0x7f8e8501f950>
+none
+
+
+<Element 'row' at 0x7f8e8501fa50>
+<Element 'row' at 0x7f8e8501fa50>
+none
+
+
+<Element 'row' at 0x7f8e8501fb50>
+<Element 'row' at 0x7f8e8501fb50>
+none
+
+
+<Element 'row' at 0x7f8e8501fc50>
+<Element 'row' at 0x7f8e8501fc50>
+none
+
+
+<Element 'row' at 0x7f8e8501fd50>
+<Element 'row' at 0x7f8e8501fd50>
+none
+
+
+<Element 'row' at 0x7f8e8501fe50>
+<Element 'row' at 0x7f8e8501fe50>
+none
+
+
+<Element 'row' at 0x7f8e8501ff50>
+<Element 'row' at 0x7f8e8501ff50>
+none
+
+
+<Element 'row' at 0x7f8e85024090>
+<Element 'row' at 0x7f8e85024090>
+none
+
+
+<Element 'row' at 0x7f8e85024190>
+<Element 'row' at 0x7f8e85024190>
+none
+
+
+<Element 'row' at 0x7f8e85024290>
+<Element 'row' at 0x7f8e85024290>
+none
+
+
+<Element 'row' at 0x7f8e85024390>
+<Element 'row' at 0x7f8e85024390>
+none
+
+
+<Element 'row' at 0x7f8e85024490>
+<Element 'row' at 0x7f8e85024490>
+none
+
+
+<Element 'row' at 0x7f8e85024590>
+<Element 'row' at 0x7f8e85024590>
+none
+
+
+<Element 'row' at 0x7f8e85024690>
+<Element 'row' at 0x7f8e85024690>
+none
+
+
+<Element 'row' at 0x7f8e85024790>
+<Element 'row' at 0x7f8e85024790>
+none
+
+
+<Element 'row' at 0x7f8e85024890>
+<Element 'row' at 0x7f8e85024890>
+none
+
+
+<Element 'row' at 0x7f8e85024990>
+<Element 'row' at 0x7f8e85024990>
+none
+
+
+<Element 'row' at 0x7f8e85024a90>
+<Element 'row' at 0x7f8e85024a90>
+none
+
+
+<Element 'row' at 0x7f8e85024b90>
+<Element 'row' at 0x7f8e85024b90>
+none
+
+
+<Element 'row' at 0x7f8e85024c90>
+<Element 'row' at 0x7f8e85024c90>
+none
+
+
+<Element 'row' at 0x7f8e85024d90>
+<geophysics><geodynamics><core><seismology>
+<Element 'row' at 0x7f8e85024e90>
+<Element 'row' at 0x7f8e85024e90>
+none
+
+
+<Element 'row' at 0x7f8e85024f50>
+<Element 'row' at 0x7f8e85024f50>
+none
+
+
+<Element 'row' at 0x7f8e85028090>
+<geology>
+<Element 'row' at 0x7f8e850281d0>
+<Element 'row' at 0x7f8e850281d0>
+none
+
+
+<Element 'row' at 0x7f8e850282d0>
+<ocean-currents>
+<Element 'row' at 0x7f8e85028390>
+<Element 'row' at 0x7f8e85028390>
+none
+
+
+<Element 'row' at 0x7f8e85028490>
+<Element 'row' at 0x7f8e85028490>
+none
+
+
+<Element 'row' at 0x7f8e85028550>
+<climate><lake-ice>
+<Element 'row' at 0x7f8e85028650>
+<geophysics><core>
+<Element 'row' at 0x7f8e85028750>
+<Element 'row' at 0x7f8e85028750>
+none
+
+
+<Element 'row' at 0x7f8e85028810>
+<Element 'row' at 0x7f8e85028810>
+none
+
+
+<Element 'row' at 0x7f8e85028910>
+<Element 'row' at 0x7f8e85028910>
+none
+
+
+<Element 'row' at 0x7f8e85028a10>
+<geophysics><core>
+<Element 'row' at 0x7f8e85028b10>
+<Element 'row' at 0x7f8e85028b10>
+none
+
+
+<Element 'row' at 0x7f8e85028bd0>
+<Element 'row' at 0x7f8e85028bd0>
+none
+
+
+<Element 'row' at 0x7f8e85028cd0>
+<meteorology><radiosounding>
+<Element 'row' at 0x7f8e85028d90>
+<Element 'row' at 0x7f8e85028d90>
+none
+
+
+<Element 'row' at 0x7f8e85028e50>
+<Element 'row' at 0x7f8e85028e50>
+none
+
+
+<Element 'row' at 0x7f8e85028f50>
+<Element 'row' at 0x7f8e85028f50>
+none
+
+
+<Element 'row' at 0x7f8e84fad050>
+<Element 'row' at 0x7f8e84fad050>
+none
+
+
+<Element 'row' at 0x7f8e84fad110>
+<Element 'row' at 0x7f8e84fad110>
+none
+
+
+<Element 'row' at 0x7f8e84fad1d0>
+<Element 'row' at 0x7f8e84fad1d0>
+none
+
+
+<Element 'row' at 0x7f8e84fad2d0>
+<Element 'row' at 0x7f8e84fad2d0>
+none
+
+
+<Element 'row' at 0x7f8e84fad3d0>
+<meteorology><weather><wind><air-currents>
+<Element 'row' at 0x7f8e84fad510>
+<Element 'row' at 0x7f8e84fad510>
+none
+
+
+<Element 'row' at 0x7f8e84fad610>
+<Element 'row' at 0x7f8e84fad610>
+none
+
+
+<Element 'row' at 0x7f8e84fad6d0>
+<ocean-currents>
+<Element 'row' at 0x7f8e84fad7d0>
+<Element 'row' at 0x7f8e84fad7d0>
+none
+
+
+<Element 'row' at 0x7f8e84fad890>
+<meteorology><global-warming><tropical-cyclone>
+<Element 'row' at 0x7f8e84fad990>
+<earthquakes><hurricane><volcanoes><meteorite>
+<Element 'row' at 0x7f8e84fadad0>
+<Element 'row' at 0x7f8e84fadad0>
+none
+
+
+<Element 'row' at 0x7f8e84fadb90>
+<Element 'row' at 0x7f8e84fadb90>
+none
+
+
+<Element 'row' at 0x7f8e84fadc50>
+<oceanography><salinity>
+<Element 'row' at 0x7f8e84fadd90>
+<Element 'row' at 0x7f8e84fadd90>
+none
+
+
+<Element 'row' at 0x7f8e84fade90>
+<Element 'row' at 0x7f8e84fade90>
+none
+
+
+<Element 'row' at 0x7f8e84fadf90>
+<Element 'row' at 0x7f8e84fadf90>
+none
+
+
+<Element 'row' at 0x7f8e84fb50d0>
+<geophysics><measurements>
+<Element 'row' at 0x7f8e84fb5250>
+<Element 'row' at 0x7f8e84fb5250>
+none
+
+
+<Element 'row' at 0x7f8e84fb5310>
+<measurements><seismology>
+<Element 'row' at 0x7f8e84fb5450>
+<Element 'row' at 0x7f8e84fb5450>
+none
+
+
+<Element 'row' at 0x7f8e84fb5510>
+<Element 'row' at 0x7f8e84fb5510>
+none
+
+
+<Element 'row' at 0x7f8e84fb55d0>
+<geophysics><climate><earthquakes><storms>
+<Element 'row' at 0x7f8e84fb5690>
+<Element 'row' at 0x7f8e84fb5690>
+none
+
+
+<Element 'row' at 0x7f8e84fb5750>
+<core><differentiation>
+<Element 'row' at 0x7f8e84fb5890>
+<tibetan-plateau><orogeny>
+<Element 'row' at 0x7f8e84fb59d0>
+<geophysics><archaeology><magnetometry>
+<Element 'row' at 0x7f8e84fb5ad0>
+<earth-observation><planetary-science><earth-history>
+<Element 'row' at 0x7f8e84fb5c10>
+<Element 'row' at 0x7f8e84fb5c10>
+none
+
+
+<Element 'row' at 0x7f8e84fb5d10>
+<Element 'row' at 0x7f8e84fb5d10>
+none
+
+
+<Element 'row' at 0x7f8e84fb5e10>
+<Element 'row' at 0x7f8e84fb5e10>
+none
+
+
+<Element 'row' at 0x7f8e84fb5ed0>
+<resources>
+<Element 'row' at 0x7f8e84fb5f90>
+<meteorology><tornado>
+<Element 'row' at 0x7f8e84fb9110>
+<Element 'row' at 0x7f8e84fb9110>
+none
+
+
+<Element 'row' at 0x7f8e84fb91d0>
+<Element 'row' at 0x7f8e84fb91d0>
+none
+
+
+<Element 'row' at 0x7f8e84fb92d0>
+<Element 'row' at 0x7f8e84fb92d0>
+none
+
+
+<Element 'row' at 0x7f8e84fb9390>
+<Element 'row' at 0x7f8e84fb9390>
+none
+
+
+<Element 'row' at 0x7f8e84fb9450>
+<Element 'row' at 0x7f8e84fb9450>
+none
+
+
+<Element 'row' at 0x7f8e84fb9510>
+<lightning>
+<Element 'row' at 0x7f8e84fb95d0>
+<Element 'row' at 0x7f8e84fb95d0>
+none
+
+
+<Element 'row' at 0x7f8e84fb96d0>
+<Element 'row' at 0x7f8e84fb96d0>
+none
+
+
+<Element 'row' at 0x7f8e84fb97d0>
+<geophysics><seismology><earth>
+<Element 'row' at 0x7f8e84fb98d0>
+<Element 'row' at 0x7f8e84fb98d0>
+none
+
+
+<Element 'row' at 0x7f8e84fb9990>
+<Element 'row' at 0x7f8e84fb9990>
+none
+
+
+<Element 'row' at 0x7f8e84fb9a50>
+<plate-tectonics><volcanoes><mantle><convection><mantle-plumes>
+<Element 'row' at 0x7f8e84fb9b50>
+<Element 'row' at 0x7f8e84fb9b50>
+none
+
+
+<Element 'row' at 0x7f8e84fb9c10>
+<Element 'row' at 0x7f8e84fb9c10>
+none
+
+
+<Element 'row' at 0x7f8e84fb9d10>
+<Element 'row' at 0x7f8e84fb9d10>
+none
+
+
+<Element 'row' at 0x7f8e84fb9dd0>
+<Element 'row' at 0x7f8e84fb9dd0>
+none
+
+
+<Element 'row' at 0x7f8e84fb9ed0>
+<Element 'row' at 0x7f8e84fb9ed0>
+none
+
+
+<Element 'row' at 0x7f8e84fb9f90>
+<Element 'row' at 0x7f8e84fb9f90>
+none
+
+
+<Element 'row' at 0x7f8e84fbe090>
+<ocean><geochemistry><water-resources>
+<Element 'row' at 0x7f8e84fbe190>
+<Element 'row' at 0x7f8e84fbe190>
+none
+
+
+<Element 'row' at 0x7f8e84fbe290>
+<Element 'row' at 0x7f8e84fbe290>
+none
+
+
+<Element 'row' at 0x7f8e84fbe350>
+<Element 'row' at 0x7f8e84fbe350>
+none
+
+
+<Element 'row' at 0x7f8e84fbe450>
+<Element 'row' at 0x7f8e84fbe450>
+none
+
+
+<Element 'row' at 0x7f8e84fbe550>
+<atmosphere><meteorology><climate><nwp>
+<Element 'row' at 0x7f8e84fbe650>
+<Element 'row' at 0x7f8e84fbe650>
+none
+
+
+<Element 'row' at 0x7f8e84fbe710>
+<Element 'row' at 0x7f8e84fbe710>
+none
+
+
+<Element 'row' at 0x7f8e84fbe7d0>
+<Element 'row' at 0x7f8e84fbe7d0>
+none
+
+
+<Element 'row' at 0x7f8e84fbe890>
+<meteorology><climate><precipitation>
+<Element 'row' at 0x7f8e84fbe950>
+<precipitation><glaciology><glacier>
+<Element 'row' at 0x7f8e84fbea50>
+<Element 'row' at 0x7f8e84fbea50>
+none
+
+
+<Element 'row' at 0x7f8e84fbeb10>
+<global-warming><sea-level><climate-change><cryosphere><ice-sheets>
+<Element 'row' at 0x7f8e84fbec10>
+<measurements><groundwater>
+<Element 'row' at 0x7f8e84fbed50>
+<Element 'row' at 0x7f8e84fbed50>
+none
+
+
+<Element 'row' at 0x7f8e84fbee50>
+<Element 'row' at 0x7f8e84fbee50>
+none
+
+
+<Element 'row' at 0x7f8e84fbef10>
+<Element 'row' at 0x7f8e84fbef10>
+none
+
+
+<Element 'row' at 0x7f8e84fc5050>
+<Element 'row' at 0x7f8e84fc5050>
+none
+
+
+<Element 'row' at 0x7f8e84fc5110>
+<Element 'row' at 0x7f8e84fc5110>
+none
+
+
+<Element 'row' at 0x7f8e84fc51d0>
+<atmosphere><temperature><global-warming>
+<Element 'row' at 0x7f8e84fc5310>
+<Element 'row' at 0x7f8e84fc5310>
+none
+
+
+<Element 'row' at 0x7f8e84fc5410>
+<Element 'row' at 0x7f8e84fc5410>
+none
+
+
+<Element 'row' at 0x7f8e84fc54d0>
+<Element 'row' at 0x7f8e84fc54d0>
+none
+
+
+<Element 'row' at 0x7f8e84fc55d0>
+<measurements><models><hydrology><water-table><rivers>
+<Element 'row' at 0x7f8e84fc56d0>
+<resources><informatics>
+<Element 'row' at 0x7f8e84fc5850>
+<meteorology><climate><modelling>
+<Element 'row' at 0x7f8e84fc5950>
+<Element 'row' at 0x7f8e84fc5950>
+none
+
+
+<Element 'row' at 0x7f8e84fc5a90>
+<Element 'row' at 0x7f8e84fc5a90>
+none
+
+
+<Element 'row' at 0x7f8e84fc5b50>
+<Element 'row' at 0x7f8e84fc5b50>
+none
+
+
+<Element 'row' at 0x7f8e84fc5c10>
+<Element 'row' at 0x7f8e84fc5c10>
+none
+
+
+<Element 'row' at 0x7f8e84fc5d50>
+<models>
+<Element 'row' at 0x7f8e84fc5e50>
+<Element 'row' at 0x7f8e84fc5e50>
+none
+
+
+<Element 'row' at 0x7f8e84fc5f50>
+<global-warming><statistics>
+<Element 'row' at 0x7f8e84fca090>
+<geology><geobiology>
+<Element 'row' at 0x7f8e84fca190>
+<Element 'row' at 0x7f8e84fca190>
+none
+
+
+<Element 'row' at 0x7f8e84fca290>
+<geomagnetism><moon>
+<Element 'row' at 0x7f8e84fca3d0>
+<Element 'row' at 0x7f8e84fca3d0>
+none
+
+
+<Element 'row' at 0x7f8e84fca4d0>
+<Element 'row' at 0x7f8e84fca4d0>
+none
+
+
+<Element 'row' at 0x7f8e84fca5d0>
+<Element 'row' at 0x7f8e84fca5d0>
+none
+
+
+<Element 'row' at 0x7f8e84fca6d0>
+<Element 'row' at 0x7f8e84fca6d0>
+none
+
+
+<Element 'row' at 0x7f8e84fca7d0>
+<Element 'row' at 0x7f8e84fca7d0>
+none
+
+
+<Element 'row' at 0x7f8e84fca8d0>
+<Element 'row' at 0x7f8e84fca8d0>
+none
+
+
+<Element 'row' at 0x7f8e84fca990>
+<Element 'row' at 0x7f8e84fca990>
+none
+
+
+<Element 'row' at 0x7f8e84fcaa90>
+<Element 'row' at 0x7f8e84fcaa90>
+none
+
+
+<Element 'row' at 0x7f8e84fcab90>
+<Element 'row' at 0x7f8e84fcab90>
+none
+
+
+<Element 'row' at 0x7f8e84fcac90>
+<Element 'row' at 0x7f8e84fcac90>
+none
+
+
+<Element 'row' at 0x7f8e84fcad90>
+<earth-history><earth><meteor>
+<Element 'row' at 0x7f8e84fcae90>
+<Element 'row' at 0x7f8e84fcae90>
+none
+
+
+<Element 'row' at 0x7f8e84fcaf90>
+<Element 'row' at 0x7f8e84fcaf90>
+none
+
+
+<Element 'row' at 0x7f8e84fcd0d0>
+<Element 'row' at 0x7f8e84fcd0d0>
+none
+
+
+<Element 'row' at 0x7f8e84fcd1d0>
+<Element 'row' at 0x7f8e84fcd1d0>
+none
+
+
+<Element 'row' at 0x7f8e84fcd2d0>
+<Element 'row' at 0x7f8e84fcd2d0>
+none
+
+
+<Element 'row' at 0x7f8e84fcd3d0>
+<Element 'row' at 0x7f8e84fcd3d0>
+none
+
+
+<Element 'row' at 0x7f8e84fcd4d0>
+<Element 'row' at 0x7f8e84fcd4d0>
+none
+
+
+<Element 'row' at 0x7f8e84fcd5d0>
+<earth-history><earth><axis>
+<Element 'row' at 0x7f8e84fcd6d0>
+<Element 'row' at 0x7f8e84fcd6d0>
+none
+
+
+<Element 'row' at 0x7f8e84fcd7d0>
+<Element 'row' at 0x7f8e84fcd7d0>
+none
+
+
+<Element 'row' at 0x7f8e84fcd890>
+<Element 'row' at 0x7f8e84fcd890>
+none
+
+
+<Element 'row' at 0x7f8e84fcd950>
+<Element 'row' at 0x7f8e84fcd950>
+none
+
+
+<Element 'row' at 0x7f8e84fcda10>
+<Element 'row' at 0x7f8e84fcda10>
+none
+
+
+<Element 'row' at 0x7f8e84fcdb10>
+<Element 'row' at 0x7f8e84fcdb10>
+none
+
+
+<Element 'row' at 0x7f8e84fcdc10>
+<Element 'row' at 0x7f8e84fcdc10>
+none
+
+
+<Element 'row' at 0x7f8e84fcdcd0>
+<Element 'row' at 0x7f8e84fcdcd0>
+none
+
+
+<Element 'row' at 0x7f8e84fcdd90>
+<Element 'row' at 0x7f8e84fcdd90>
+none
+
+
+<Element 'row' at 0x7f8e84fcde90>
+<Element 'row' at 0x7f8e84fcde90>
+none
+
+
+<Element 'row' at 0x7f8e84fcdf50>
+<Element 'row' at 0x7f8e84fcdf50>
+none
+
+
+<Element 'row' at 0x7f8e84fd4050>
+<Element 'row' at 0x7f8e84fd4050>
+none
+
+
+<Element 'row' at 0x7f8e84fd4110>
+<Element 'row' at 0x7f8e84fd4110>
+none
+
+
+<Element 'row' at 0x7f8e84fd41d0>
+<earthquakes><earth-history>
+<Element 'row' at 0x7f8e84fd42d0>
+<Element 'row' at 0x7f8e84fd42d0>
+none
+
+
+<Element 'row' at 0x7f8e84fd43d0>
+<Element 'row' at 0x7f8e84fd43d0>
+none
+
+
+<Element 'row' at 0x7f8e84fd44d0>
+<troposphere><equator><poles>
+<Element 'row' at 0x7f8e84fd45d0>
+<climate><earth><earth-rotation>
+<Element 'row' at 0x7f8e84fd46d0>
+<geology>
+<Element 'row' at 0x7f8e84fd4790>
+<Element 'row' at 0x7f8e84fd4790>
+none
+
+
+<Element 'row' at 0x7f8e84fd4850>
+<Element 'row' at 0x7f8e84fd4850>
+none
+
+
+<Element 'row' at 0x7f8e84fd4950>
+<Element 'row' at 0x7f8e84fd4950>
+none
+
+
+<Element 'row' at 0x7f8e84fd4a10>
+<volcanic-hazard><atmospheric-dust>
+<Element 'row' at 0x7f8e84fd4ad0>
+<Element 'row' at 0x7f8e84fd4ad0>
+none
+
+
+<Element 'row' at 0x7f8e84fd4b90>
+<earthquakes><plate-tectonics>
+<Element 'row' at 0x7f8e84fd4c90>
+<Element 'row' at 0x7f8e84fd4c90>
+none
+
+
+<Element 'row' at 0x7f8e84fd4d50>
+<oceanography><tides><moon>
+<Element 'row' at 0x7f8e84fd4e90>
+<Element 'row' at 0x7f8e84fd4e90>
+none
+
+
+<Element 'row' at 0x7f8e84fd4f50>
+<Element 'row' at 0x7f8e84fd4f50>
+none
+
+
+<Element 'row' at 0x7f8e84fd9050>
+<Element 'row' at 0x7f8e84fd9050>
+none
+
+
+<Element 'row' at 0x7f8e84fd9110>
+<Element 'row' at 0x7f8e84fd9110>
+none
+
+
+<Element 'row' at 0x7f8e84fd91d0>
+<geology><mountains><earth>
+<Element 'row' at 0x7f8e84fd9310>
+<sea-level><ice-sheets>
+<Element 'row' at 0x7f8e84fd9450>
+<Element 'row' at 0x7f8e84fd9450>
+none
+
+
+<Element 'row' at 0x7f8e84fd9550>
+<Element 'row' at 0x7f8e84fd9550>
+none
+
+
+<Element 'row' at 0x7f8e84fd9650>
+<Element 'row' at 0x7f8e84fd9650>
+none
+
+
+<Element 'row' at 0x7f8e84fd9750>
+<subduction><metamorphism><blueschist>
+<Element 'row' at 0x7f8e84fd9850>
+<Element 'row' at 0x7f8e84fd9850>
+none
+
+
+<Element 'row' at 0x7f8e84fd9950>
+<diagenesis><sedimentology><flint>
+<Element 'row' at 0x7f8e84fd9a10>
+<Element 'row' at 0x7f8e84fd9a10>
+none
+
+
+<Element 'row' at 0x7f8e84fd9b10>
+<Element 'row' at 0x7f8e84fd9b10>
+none
+
+
+<Element 'row' at 0x7f8e84fd9bd0>
+<geophysics><informatics>
+<Element 'row' at 0x7f8e84fd9d10>
+<Element 'row' at 0x7f8e84fd9d10>
+none
+
+
+<Element 'row' at 0x7f8e84fd9dd0>
+<Element 'row' at 0x7f8e84fd9dd0>
+none
+
+
+<Element 'row' at 0x7f8e84fd9ed0>
+<Element 'row' at 0x7f8e84fd9ed0>
+none
+
+
+<Element 'row' at 0x7f8e84fd9fd0>
+<Element 'row' at 0x7f8e84fd9fd0>
+none
+
+
+<Element 'row' at 0x7f8e84fde0d0>
+<Element 'row' at 0x7f8e84fde0d0>
+none
+
+
+<Element 'row' at 0x7f8e84fde1d0>
+<Element 'row' at 0x7f8e84fde1d0>
+none
+
+
+<Element 'row' at 0x7f8e84fde2d0>
+<Element 'row' at 0x7f8e84fde2d0>
+none
+
+
+<Element 'row' at 0x7f8e84fde3d0>
+<Element 'row' at 0x7f8e84fde3d0>
+none
+
+
+<Element 'row' at 0x7f8e84fde4d0>
+<Element 'row' at 0x7f8e84fde4d0>
+none
+
+
+<Element 'row' at 0x7f8e84fde5d0>
+<atmosphere><meteorology>
+<Element 'row' at 0x7f8e84fde710>
+<atmosphere><meteorology>
+<Element 'row' at 0x7f8e84fde850>
+<fossils><geography>
+<Element 'row' at 0x7f8e84fde950>
+<atmosphere><meteorology><climate><nwp><climate-models>
+<Element 'row' at 0x7f8e84fdea50>
+<atmosphere><meteorology><climate><climate-change>
+<Element 'row' at 0x7f8e84fdeb50>
+<geology><petrology><mineralogy><minerals>
+<Element 'row' at 0x7f8e84fdec10>
+<Element 'row' at 0x7f8e84fdec10>
+none
+
+
+<Element 'row' at 0x7f8e84fdecd0>
+<Element 'row' at 0x7f8e84fdecd0>
+none
+
+
+<Element 'row' at 0x7f8e84fdedd0>
+<Element 'row' at 0x7f8e84fdedd0>
+none
+
+
+<Element 'row' at 0x7f8e84fdee90>
+<Element 'row' at 0x7f8e84fdee90>
+none
+
+
+<Element 'row' at 0x7f8e84fdef50>
+<Element 'row' at 0x7f8e84fdef50>
+none
+
+
+<Element 'row' at 0x7f8e84fe5050>
+<Element 'row' at 0x7f8e84fe5050>
+none
+
+
+<Element 'row' at 0x7f8e84fe5110>
+<Element 'row' at 0x7f8e84fe5110>
+none
+
+
+<Element 'row' at 0x7f8e84fe51d0>
+<Element 'row' at 0x7f8e84fe51d0>
+none
+
+
+<Element 'row' at 0x7f8e84fe52d0>
+<Element 'row' at 0x7f8e84fe52d0>
+none
+
+
+<Element 'row' at 0x7f8e84fe53d0>
+<Element 'row' at 0x7f8e84fe53d0>
+none
+
+
+<Element 'row' at 0x7f8e84fe54d0>
+<Element 'row' at 0x7f8e84fe54d0>
+none
+
+
+<Element 'row' at 0x7f8e84fe55d0>
+<Element 'row' at 0x7f8e84fe55d0>
+none
+
+
+<Element 'row' at 0x7f8e84fe56d0>
+<Element 'row' at 0x7f8e84fe56d0>
+none
+
+
+<Element 'row' at 0x7f8e84fe57d0>
+<aquifer>
+<Element 'row' at 0x7f8e84fe58d0>
+<atmosphere><ocean><el-nino>
+<Element 'row' at 0x7f8e84fe59d0>
+<geophysics><geology><earthquakes><seismology>
+<Element 'row' at 0x7f8e84fe5ad0>
+<Element 'row' at 0x7f8e84fe5ad0>
+none
+
+
+<Element 'row' at 0x7f8e84fe5b90>
+<Element 'row' at 0x7f8e84fe5b90>
+none
+
+
+<Element 'row' at 0x7f8e84fe5c90>
+<Element 'row' at 0x7f8e84fe5c90>
+none
+
+
+<Element 'row' at 0x7f8e84fe5d50>
+<Element 'row' at 0x7f8e84fe5d50>
+none
+
+
+<Element 'row' at 0x7f8e84fe5e50>
+<Element 'row' at 0x7f8e84fe5e50>
+none
+
+
+<Element 'row' at 0x7f8e84fe5f50>
+<paleontology><graptolites>
+<Element 'row' at 0x7f8e84fea0d0>
+<Element 'row' at 0x7f8e84fea0d0>
+none
+
+
+<Element 'row' at 0x7f8e84fea1d0>
+<Element 'row' at 0x7f8e84fea1d0>
+none
+
+
+<Element 'row' at 0x7f8e84fea290>
+<atmosphere>
+<Element 'row' at 0x7f8e84fea390>
+<meteorology><weather><dynamics>
+<Element 'row' at 0x7f8e84fea510>
+<Element 'row' at 0x7f8e84fea510>
+none
+
+
+<Element 'row' at 0x7f8e84fea5d0>
+<Element 'row' at 0x7f8e84fea5d0>
+none
+
+
+<Element 'row' at 0x7f8e84fea6d0>
+<Element 'row' at 0x7f8e84fea6d0>
+none
+
+
+<Element 'row' at 0x7f8e84fea7d0>
+<Element 'row' at 0x7f8e84fea7d0>
+none
+
+
+<Element 'row' at 0x7f8e84fea890>
+<Element 'row' at 0x7f8e84fea890>
+none
+
+
+<Element 'row' at 0x7f8e84fea990>
+<Element 'row' at 0x7f8e84fea990>
+none
+
+
+<Element 'row' at 0x7f8e84feaa90>
+<Element 'row' at 0x7f8e84feaa90>
+none
+
+
+<Element 'row' at 0x7f8e84feab90>
+<Element 'row' at 0x7f8e84feab90>
+none
+
+
+<Element 'row' at 0x7f8e84feac90>
+<Element 'row' at 0x7f8e84feac90>
+none
+
+
+<Element 'row' at 0x7f8e84fead90>
+<Element 'row' at 0x7f8e84fead90>
+none
+
+
+<Element 'row' at 0x7f8e84feae90>
+<Element 'row' at 0x7f8e84feae90>
+none
+
+
