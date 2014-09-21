@@ -49,20 +49,32 @@ def scorer_common_pitfall(child):
 users = xml.parse('../stackdata/cs.stackexchange.com/Users.xml')
 userRoot = users.getroot()
 
+def getTopKEasy(filename, keyword):
+    tree = xml.parse(filename)
+    root = tree.getroot()
+    ranks = dict()
+    for child in root:
+        try:
+            if(child.attrib['PostTypeId'] == "1" and keyword in [x.lower() for x in child.attrib['Body'].split()]):
+                ranks[child] = scorer_common_pitfall(child)
+        except:
+            pass
+    r = sorted(ranks.iteritems(), key=lambda (k, v): -v )
+    r = [child[0].attrib  for child in r[:10]]
+    for x in r:
+        print x
 
-
-tree = xml.parse('../stackdata/cs.stackexchange.com/Posts.xml')
-root = tree.getroot()
-keyword = "turing"
-ranks = dict()
-for child in root:
-    try:
-        if(child.attrib['PostTypeId'] == "1" and keyword in [x.lower() for x in child.attrib['Body'].split()]):
-            ranks[child] = scorer_common_pitfall(child)
-    except:
-        pass
-r = sorted(ranks.iteritems(), key=lambda (k, v): -v )
-r = [child[0].attrib  for child in r[:10]]
-
-for x in r:
-    print x
+def getTopKhard(filename, keyword):
+    tree = xml.parse(filename)
+    root = tree.getroot()
+    ranks = dict()
+    for child in root:
+        try:
+            if(child.attrib['PostTypeId'] == "1" and keyword in [x.lower() for x in child.attrib['Body'].split()]):
+                ranks[child] = scorer_difficult_problems(child)
+        except:
+            pass
+    r = sorted(ranks.iteritems(), key=lambda (k, v): -v )
+    r = [child[0].attrib  for child in r[:10]]
+    for x in r:
+        print x
