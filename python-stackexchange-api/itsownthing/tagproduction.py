@@ -35,10 +35,14 @@ def tagparsing(theobject1, theobject2): #theobject1 is the xml tree, the object2
 				pass
 			i = i + 1
 	i = 0
-	#fileArray[i].append(open())
-	while(i < len(fileArray)):
+	fileArray.append(open("allthenames.txt", 'w'))
+
+	
+	while(i < len(fileArray)-1): #simultaneously writes to last file arrray and closes files
+		fileArray[len(fileArray)-1].write(TagArray[i] + " ")
 		fileArray[i].close()
 		i = i + 1
+	fileArray[i].close()
 
 
 
