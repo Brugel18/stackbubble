@@ -30,7 +30,7 @@ def tagparsing(theobject1, theobject2): #theobject1 is the xml tree, the object2
 		while(i < len(TagArray)):
 			try:
 				if(TagArray[i] in nodes.attrib['Tags']):
-					fileArray[i].write("{'color':getRandomColor(),'shape':'dot','label':'Strings', 'size': 60, 'isExploded':false, \"precedence\": 2," + (str(nodes.attrib)[1:])) 
+					fileArray[i].write("{'color':getRandomColor(),'shape':'dot','label':'Strings', 'size': 60, 'isExploded':false, \"precedence\": 2," + (str(nodes.attrib) + "}")) 
 				
 
 			except:
@@ -41,7 +41,7 @@ def tagparsing(theobject1, theobject2): #theobject1 is the xml tree, the object2
 
 	
 	while(i < len(fileArray)-1): #simultaneously writes to last file arrray and closes files
-		fileArray[len(fileArray)-1].write("{'color':getRandomColor(),'shape':'dot','label':'Strings', 'size': 60, 'isExploded':false, \"precedence\": 2" + TagArray[i][1:])
+		fileArray[len(fileArray)-1].write("{'color':getRandomColor(),'shape':'dot','label':'Strings', 'size': 60, 'isExploded':false, \"precedence\": 2," + TagArray[i]+ "}")
 		fileArray[i].close()
 		i = i + 1
 	fileArray[i].close()
